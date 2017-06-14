@@ -1,0 +1,924 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="it-IT">
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Google, il ragazzo down e l&#8217;articolo 40 del codice penale | Carlo Felice Dalla Pasqua</title>
+<link rel="pingback" href="https://dallapasqua.it/xmlrpc.php" />
+<script type="text/javascript">
+  WebFontConfig = {"typekit":{"id":"tuv1lsh"}};
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = 'https://s1.wp.com/wp-content/plugins/custom-fonts/js/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+	})();
+</script><style id="jetpack-custom-fonts-css">.wf-active #container h1{font-family:"liberation-sans-1","liberation-sans-2",sans-serif;font-size:24.6px;font-weight:700;font-style:normal}</style>
+		<script src='https://r-login.wordpress.com/remote-login.php?action=js&amp;host=dallapasqua.it&amp;id=16321302&amp;t=1497427028&amp;back=https%3A%2F%2Fdallapasqua.it%2F2006%2F11%2F26%2Fgoogle_il_ragaz%2F%3Freplytocom%3D540' type="text/javascript"></script>
+		<script type="text/javascript">
+		/* <![CDATA[ */
+			if ( 'function' === typeof WPRemoteLogin ) {
+				document.cookie = "wordpress_test_cookie=test; path=/";
+				if ( document.cookie.match( /(;|^)\s*wordpress_test_cookie\=/ ) ) {
+					WPRemoteLogin();
+				}
+			}
+		/* ]]> */
+		</script>
+		<link rel='dns-prefetch' href='//s2.wp.com' />
+<link rel='dns-prefetch' href='//s1.wp.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//carlofelice.wordpress.com' />
+<link rel="alternate" type="application/rss+xml" title="Carlo Felice Dalla Pasqua &raquo; Feed" href="https://dallapasqua.it/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Carlo Felice Dalla Pasqua &raquo; Feed dei commenti" href="https://dallapasqua.it/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Carlo Felice Dalla Pasqua &raquo; Google, il ragazzo down e l&#8217;articolo 40 del codice&nbsp;penale Feed dei commenti" href="https://dallapasqua.it/2006/11/26/google_il_ragaz/feed/" />
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+			<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/s1.wp.com\/wp-includes\/js\/wp-emoji-release.min.js?m=1496863874h&ver=4.8-RC2-40878"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b===c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='all-css-0-1' href='https://s0.wp.com/_static/??-eJx9kEsOwjAMRC9EiAoFwQJxljQ14BInVu2o6u1JQWygysbyWPP8sxMbn6JCVEvZcMh3jGIn9omMEAaYf9TWi2zsOhbwCWIHUHb+ad6qZh8hOIXecBL9UTUM4w0j6mz1AVTmce7skPIYXUDRGunTCKVO7HRxEPToIJQmsYoRH7/Ukj7KcdUFP//qOh5BxJRImMl8tv3jVo+wonOAxXulS9Mezru2Oe9Pwwulx6JO' type='text/css' media='all' />
+<!--[if IE 6]>
+<link rel='stylesheet' id='journalist-ie6-css'  href='https://s0.wp.com/wp-content/themes/pub/journalist/ie6.css?m=1270837707h&#038;ver=4.8-RC2-40878' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='all-css-2-1' href='https://s2.wp.com/_static/??-eJx9jFEKwjAQRC9kXAoR9UM8S4zpsiXZLdktvX4jQltB+veGmTcwjy4KW2KDMrkxT0isMNMbkyk0toA1lI3OUfUEBCxGzdQVvsX/P0zissRgJPwTXJ8D1SO1plcWbIjQVrv4kZ7l0fnL3fvbtfPDAm3NTE4=' type='text/css' media='all' />
+<link rel='stylesheet' id='print-css-3-1' href='https://s0.wp.com/wp-content/mu-plugins/global-print/global-print.css?m=1465851035h' type='text/css' media='print' />
+<link rel='stylesheet' id='all-css-4-1' href='https://s2.wp.com/_static/??-eJx9i9EKwjAMRX/IGoVN54P4LVnp2kialCbD3xcfRGTi0z0XzoFHC1HFkzjUNTReM4kBRieVGfuH9tFsB7/1puZhYaQOVrCT5Pf+q0wjIQfWrN9nE3lJNRmUATLrjPwSbvV6HC6H83Qap/H+BMWZScE=' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var related_posts_js_options = {"post_heading":"h4"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/_static/??-eJyFj90KwjAMhV/IrAw6xQvxWWoXS2r/bNoNfXo70At1KARCTr4cTsScgIJ2dUQWttW1Yr49W2d5I34B4MlkVbDzFF6wjqFgKAvr44kcQmXMyjStGZ3jCpciF4/MDVrZvkeiMBHOfzGLJSl9gYxM9y9XXyG5aiiwyOjaAyMsGT6mdnX0h17uh36Qcre1DyuucHk='></script>
+<link rel='stylesheet' id='all-css-0-2' href='https://s1.wp.com/wp-content/mu-plugins/highlander-comments/style.css?m=1377793621h' type='text/css' media='all' />
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='highlander-comments-ie7-css'  href='https://s1.wp.com/wp-content/mu-plugins/highlander-comments/style-ie7.css?m=1351637563h&#038;ver=20110606' type='text/css' media='all' />
+<![endif]-->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://carlofelice.wordpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s1.wp.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='My readers know more than I do (e il caso&nbsp;Gannett)' href='https://dallapasqua.it/2006/11/12/my_readers_know/' />
+<link rel='next' title='&#8220;I blog: nuovi autori e nuovi media&#8221; (ci vediamo a&nbsp;Roma?)' href='https://dallapasqua.it/2006/12/02/blog_informazio/' />
+<meta name="generator" content="WordPress.com" />
+<link rel="canonical" href="https://dallapasqua.it/2006/11/26/google_il_ragaz/" />
+<link rel='shortlink' href='http://wp.me/p16tUO-b2' />
+<meta name='robots' content='noindex,follow' />
+<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/?format=json&amp;url=https%3A%2F%2Fdallapasqua.it%2F2006%2F11%2F26%2Fgoogle_il_ragaz%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/?format=xml&amp;url=https%3A%2F%2Fdallapasqua.it%2F2006%2F11%2F26%2Fgoogle_il_ragaz%2F&amp;for=wpcom-auto-discovery" />
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Google, il ragazzo down e l&#8217;articolo 40 del codice penale" />
+<meta property="og:url" content="https://dallapasqua.it/2006/11/26/google_il_ragaz/" />
+<meta property="og:description" content="Nessuno può essere punito per un fatto preveduto dalla legge come reato, se l&#8217;evento dannoso o pericoloso, da cui dipende la esistenza del reato, non è conseguenza della sua azione od omissio…" />
+<meta property="article:published_time" content="2006-11-26T11:19:41+00:00" />
+<meta property="article:modified_time" content="2006-11-26T11:19:41+00:00" />
+<meta property="og:site_name" content="Carlo Felice Dalla Pasqua" />
+<meta property="og:image" content="https://secure.gravatar.com/blavatar/a0ded00f855735641e4cb4e70348ce55?s=200&amp;ts=1497427028" />
+<meta property="og:image:width" content="200" />
+<meta property="og:image:height" content="200" />
+<meta property="og:locale" content="it_IT" />
+<meta name="twitter:site" content="@CarloFelice" />
+<meta name="twitter:text:title" content="Google, il ragazzo down e l&#8217;articolo 40 del codice&nbsp;penale" />
+<meta name="twitter:image" content="https://secure.gravatar.com/blavatar/a0ded00f855735641e4cb4e70348ce55?s=240" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:creator" content="@CarloFelice" />
+<meta property="article:publisher" content="https://www.facebook.com/WordPresscom" />
+<link rel="shortcut icon" type="image/x-icon" href="https://secure.gravatar.com/blavatar/a0ded00f855735641e4cb4e70348ce55?s=32" sizes="16x16" />
+<link rel="icon" type="image/x-icon" href="https://secure.gravatar.com/blavatar/a0ded00f855735641e4cb4e70348ce55?s=32" sizes="16x16" />
+<link rel="apple-touch-icon-precomposed" href="https://secure.gravatar.com/blavatar/a0ded00f855735641e4cb4e70348ce55?s=114" />
+<link rel='openid.server' href='https://carlofelice.wordpress.com/?openidserver=1' />
+<link rel='openid.delegate' href='https://carlofelice.wordpress.com/' />
+<link rel="search" type="application/opensearchdescription+xml" href="https://dallapasqua.it/osd.xml" title="Carlo Felice Dalla Pasqua" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com" />
+		<style id="wpcom-hotfix-masterbar-style">
+			@media screen and (min-width: 783px) {
+				#wpadminbar .quicklinks li#wp-admin-bar-my-account.with-avatar > a img {
+					margin-top: 5px;
+				}
+			}
+		</style>
+		<meta name="application-name" content="Carlo Felice Dalla Pasqua" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="Mu. Has the dog Buddha-nature?" /><meta name="msapplication-task" content="name=Iscriviti;action-uri=https://dallapasqua.it/feed/;icon-uri=https://secure.gravatar.com/blavatar/a0ded00f855735641e4cb4e70348ce55?s=16" /><meta name="msapplication-task" content="name=Iscriviti per un blog gratis;action-uri=http://wordpress.com/signup/;icon-uri=https://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=Supporto WordPress.com;action-uri=http://support.wordpress.com/;icon-uri=https://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=Forums WordPress.com;action-uri=http://forums.wordpress.com/;icon-uri=https://s2.wp.com/i/favicon.ico" /><meta name="title" content="Google, il ragazzo down e l&#8217;articolo 40 del codice&nbsp;penale | Carlo Felice Dalla Pasqua on WordPress.com" />
+<meta name="description" content="Nessuno può essere punito per un fatto preveduto dalla legge come reato, se l&#039;evento dannoso o pericoloso, da cui dipende la esistenza del reato, non è conseguenza della sua azione od omissione. Non impedire un evento, che si ha l&#039;obbligo giuridico di impedire, equivale a cagionarlo. Avete appena letto l&#039;articolo 40 del codice penale italiano.&hellip;" />
+<link rel="amphtml" href="https://dallapasqua.it/2006/11/26/google_il_ragaz/amp/" /><style type="text/css" id="syntaxhighlighteranchor"></style>
+		<link rel="stylesheet" id="custom-css-css" type="text/css" href="https://s0.wp.com/?custom-css=1&#038;csblog=16tUO&#038;cscache=6&#038;csrev=17" />
+		</head>
+
+<body class="post-template-default single single-post postid-684 single-format-standard mp6 customizer-styles-applied highlander-enabled highlander-light">
+<div id="container" class="group">
+
+<h1><a href="https://dallapasqua.it/">Carlo Felice Dalla Pasqua</a></h1>
+<div id="bubble"><p>Mu. Has the dog Buddha-nature?</p></div> <!-- erase this line if you want to turn the bubble off -->
+
+<div id="content" class="group">
+<div class="post-684 post type-post status-publish format-standard hentry category-uncategorized">
+	<h2 id="post-684">Google, il ragazzo down e l&#8217;articolo 40 del codice&nbsp;penale</h2>
+			<p class="comments"><a href="https://dallapasqua.it/2006/11/26/google_il_ragaz/#comments">with 5 comments</a></p>
+	
+	<div class="main">
+		<p><em>Nessuno può essere punito per un fatto preveduto dalla legge come reato, se l&#8217;evento dannoso o pericoloso, da cui dipende la esistenza del reato, non è conseguenza della sua azione od omissione.<br />
+Non impedire un evento, che si ha l&#8217;obbligo giuridico di impedire, equivale a cagionarlo.</em></p>
+<p>Avete appena letto l&#8217;articolo 40 del codice penale italiano. Che cosa c&#8217;entra con Google? C&#8217;entra, c&#8217;entra se dobbiamo prestare fede, pur con qualche tara, a ciò che hanno scritto e detto in questi giorni agenzie, giornali e tv. La storia, purtroppo notissima, è quella del ragazzo down umiliato in una scuola di Torino davanti ai compagni di classe e almeno a un&#8217;insegnante. Delle scene furono registrati almeno due filmati, inseriti su Google Video e portati a conoscenza di un pubblico piuttosto vasto dal blog <a href="http://giornalettismo.ilcannocchiale.it/">Giornalettismo militante</a>, che a sua volta è stato la fonte per tutti gli altri mass media. I video sono stati poi tolti <a href="http://giornalettismo.ilcannocchiale.it/?id_blogdoc=1236373">su iniziativa della magistratura e della polizia postale</a>, dopo che a nulla era servita una segnalazione all&#8217;abuse di Google Video (la cosa potrebbe non essere irrilevante per ciò che è accaduto dopo). La Procura della Repubblica di Milano ha aperto un&#8217;inchiesta per diffamazione dopo la denuncia presentata dall&#8217;associazione <a href="http://www.vividown.org/">Vividown</a>, che era stata nominata in uno dei video; l&#8217;altro ieri <a href="http://www.repubblica.it/2005/j/sezioni/scuola_e_universita/servizi/bullismo/google-vertici-indagati/google-vertici-indagati.html">due dirigenti di Google Italia sono stati indagati</a> e <a href="http://www.corriere.it/Primo_Piano/Cronache/2006/11_Novembre/24/google.shtml">la sede di Google Italia, in piazza Biancamano a Milano, è stata perquisita</a>.</p>
+<p><span id="more-684"></span></p>
+<p>Fin qui i fatti, ma vediamo anche le motivazioni dei provvedimenti nei confronti di Google. <a href="http://www.corriere.it/Primo_Piano/Cronache/2006/11_Novembre/24/google.shtml">Secondo Corriere.it</a>, i &quot;<em>rappresentanti locali dell&#8217;azienda americana sono dunque accusati di non aver vigilato su quanto «trasmesso» nel loro motore di ricerca-community. E&#8217; stato indicato come reato una sorta di &quot;complicità&quot; dei responsabili del sito con i ragazzi che hanno caricato online il video delle violenze al disabile</em>&quot;; <a href="http://www.repubblica.it/2005/j/sezioni/scuola_e_universita/servizi/bullismo/google-vertici-indagati/google-vertici-indagati.html">secondo Repubblica.it</a>, invece, &quot;<em>il reato di cui sono accusati ricalca la normativa riguardante l&#8217;omesso controllo da parte dei direttori di testate giornalistiche sui contenuti pubblicati. E questo, sulla base di una sentenza del Tribunale di Aosta del 2006 ha equiparato la figura del titolare di un blog a quella del direttore di un giornale</em>&quot;. E in un lancio dell&#8217;Ansa delle 20.50 del 24 novembre si legge: &quot;<em>Due rappresentanti legali di Google Italia Srl, infatti, entrambi di nazionalità statunitense, sono stati iscritti nel registro degli indagati della Procura di Milano con l&#8217;ipotesi di concorso in diffamazione aggravata sulla base dell&#8217;articolo 40 comma 3 del codice penale, il quale stabilisce che «non<br />
+impedire un evento, che si ha l&#8217;obbligo giuridico di impedire, equivale a scagionarlo</em>»&quot; (due errori di distrazione: il comma è il secondo e il testo dice &quot;cagionarlo&quot; e non &quot;scagionarlo&quot;).</p>
+<p>Potrei citare vari esperti di diritto che si sono occupati della questione, fra tutti ho estratto a sorte Daniele Minotti, che già <a href="http://www.minotti.net/responsabilita-provider/google/diffamazione/cera-aspettarselo.htm">venerdì ha scritto una cosa</a> per istigare me e qualche altro a seguire la vicenda di Google Italia: &quot;si tratta di un caso di responsabilita&#8217; del provider, non c&#8217;e&#8217; dubbio. E scusate se ho questa certezza. E scusate se mi sembra anche che sia il primo caso da noi&quot;. Innanzitutto sgombriamo il campo dalle interpretazioni improbabili: la sentenza di Aosta (<a href="http://reporters.blogosfere.it/2006/06/diffamazione_vi_2.html">che pubblicai per primo su Reporters l&#8217;11 giugno scorso</a>) c&#8217;entra poco o nulla &#8211; più nulla che poco &#8211; e questo <a href="http://www.minotti.net/responsabilita-provider/google/diffamazione/responsabilita-penale-provider.htm#more">lo nota anche Minotti</a>, che invece insiste di più sul <a href="http://www.interlex.it/testi/dlg0370.htm">decreto legislativo 70 del 2003</a>: &quot;Attuazione della direttiva 2000/31/CE relativa a taluni aspetti giuridici dei servizi della società dell&#8217;informazione, in particolare il commercio elettronico, nel mercato interno&quot; (<a href="http://www.interlex.it/regole/minotti8.htm">qui un&#8217;analisi</a>). Mi concentrerei soprattutto sugli <a href="http://www.interlex.it/testi/dlg0370.htm#16">articoli 16 e 17</a>, che poi vedremo nel dettaglio.</p>
+<p>Prima di leggerli, mi sembra necessario avvertire che siamo nella fase delle indagini preliminari; che non si dovrebbe fare ma che, a volte, certi strumenti giuridici vengono stiracchiati molto più che nelle sentenze per cercare di vedere se possono essere trovate responsabilità di qualcuno. In questo caso, anche secondo me è stato utilizzato l&#8217;articolo 40 capoverso del codice penale. Google può essere responsabile di diffamazione, come i ragazzi che hanno pronunciato la frase o le frasi sull&#8217;associazione Vividown (attraverso l&#8217;articolo 123 del codice penale, se le possibili responsabilità di Google non sono state segnalate direttamente dal querelante), se non ha impedito un evento che aveva l&#8217;obbligo giuridico di impedire. Google sicuramente non ha impedito la pubblicazione dei filmati con il ragazzo down (o, nel caso specifico, del filmato in cui si parla di Vividown), ma aveva l&#8217;obbligo giuridico di farlo?</p>
+<p>Altri possono cercare nel mare magnum delle leggi e delle norme italiane, io qui torno al decreto legislativo 70 per dire che non vedo alcuna norma che imponga a Google di bloccare la pubblicazione di determinati filmati. Al primo comma dell&#8217;articolo 16 (hosting), si dice:</p>
+<p><em><br />
+Nella prestazione di un servizio della società dell&#8217;informazione<br />
+consistente nella memorizzazione di informazioni fornite da un destinatario del<br />
+servizio, il prestatore non è responsabile delle informazioni memorizzate a<br />
+richiesta di un destinatario del servizio, a condizione che detto prestatore:</em>
+</p>
+<ol type="a">
+<li><em>non sia effettivamente a conoscenza del fatto che l&#8217;attività o<br />
+l&#8217;informazione è illecita e, per quanto attiene ad azioni risarcitorie, non sia<br />
+al corrente di fatti o di circostanze che rendono manifesta l&#8217;illiceità<br />
+dell&#8217;attività o dell&#8217;informazione;</em></li>
+<li><em>non appena a conoscenza di tali fatti, su comunicazione delle autorità<br />
+competenti, agisca immediatamente per rimuovere le informazioni o per<br />
+disabilitarne l&#8217;accesso.</em></li>
+</ol>
+<p>
+Al comma 2 dell&#8217;articolo 17 si legge anche:
+</p>
+<p><em>Fatte salve le disposizioni di cui agli articoli 14, 15 e 16, il<br />
+prestatore è comunque tenuto:</em></p>
+<ol type="a">
+<li><em>ad informare senza indugio l&#8217;autorità giudiziaria o quella amministrativa<br />
+avente funzioni di vigilanza, qualora sia a conoscenza di presunte attività o<br />
+informazioni illecite riguardanti un suo destinatario del servizio della<br />
+società dell&#8217;informazione;</em></li>
+<li><em>a fornire senza indugio, a richiesta delle autorità competenti, le<br />
+informazioni in suo possesso che consentano l&#8217;identificazione del destinatario<br />
+dei suoi servizi con cui ha accordi di memorizzazione dei dati, al fine di<br />
+individuare e prevenire attività illecite.</em></li>
+</ol>
+<p>
+Google Italia, par di capire dalle informazioni un po&#8217; frammentarie che conosciamo finora, non sapeva che quei video, due fra migliaia e migliaia, erano stati caricati, quindi non poteva avere l&#8217;obbligo giuridico di impedire l&#8217;evento pubblicazione (a meno che quell&#8217;obbligo giuridico per i magistrati di Milano non discenda da un&#8217;altra norma, che nessun altro finora è riuscito a scovare). Scrive Francesco Antolisei alla fine del capitolo 102 del suo noto manuale di diritto penale (che sarà vecchietto, ma ha spesso analisi ancora applicabili all&#8217;attualità): &quot;L&#8217;obbligo di impedire l&#8217;evento non è illimitato: esso cessa di fronte all&#8217;impossibilità di compiere l&#8217;azione comandata, giacché nel nostro diritto vige il principio <em>ultra posse nemo tenetur</em>&quot;. Sembra che Google non possa aver avuto la possibilità di eliminare il filmato, perché non può materialmente controllare tutti quelli che vengono inseriti ogni giorno, ma&#8230;</p>
+<p>Sì, c&#8217;è un &quot;ma&quot;. Secondo <a href="http://giornalettismo.ilcannocchiale.it/?id_blogdoc=1236373">il post scritto alle 19,30 del 7 novembre</a> su Giornalettismo militante, il blog che ha trovato il filmato incriminato, &quot;non sono state le segnalazioni all&#8217;abuse di GVideo a farlo togliere&quot;. E si parla della polizia postale. Se questa ricostruzione fosse confermata, ossia se l&#8217;abuse di Google Video avesse avuto notizia della presenza del filmato e non l&#8217;avesse tolto, l&#8217;articolo 40 del codice penale potrebbe essere ritirato in ballo, proprio in relazione agli articoli 16 e 17 del decreto legislativo del 2003. C&#8217;è stato un periodo in cui Google era consapevole della presenza di quel video ma non ha fatto nulla per toglierlo e quindi non ha fatto nulla per impedire che gli autori continuassero a mostrarlo a chi lo cercava.</p>
+<p> Ci sarebbe un ulteriore complicazione, però, e sarebbe il fatto che si procede per diffamazione, ossia per un reato perseguibile a querela di parte: prima della presentazione della querela (della quale non credo abbia avuto notizia ufficiale prima della perquisizione alla sede italiana di Milano), Google aveva realmente l&#8217;obbligo di togliere quel filmato anche se era a conoscenza della sua esistenza? Mi resta qualche dubbio.</p>
+<p>Mi fermo qui, sperando, come al solito, di non aver pestato troppi rifiuti animali organici, tanto per non usare un&#8217;unica parola&#8230; </p>
+<div id="jp-post-flair" class="sharedaddy sd-like-enabled sd-sharing-enabled"><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li><a href="#" class="sharing-anchor sd-button share-more"><span>Condivisione</span></a></li><li class="share-end"></li></ul><div class="sharing-hidden"><div class="inner" style="display: none;"><ul><li class="share-email"><a rel="nofollow" data-shared="" class="share-email sd-button share-icon" href="https://dallapasqua.it/2006/11/26/google_il_ragaz/?share=email" target="_blank" title="Click to email"><span>E-mail</span></a></li><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-684" class="share-twitter sd-button share-icon" href="https://dallapasqua.it/2006/11/26/google_il_ragaz/?share=twitter" target="_blank" title="Fai clic qui per condividere su Twitter"><span>Twitter</span></a></li><li class="share-end"></li><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-684" class="share-facebook sd-button share-icon" href="https://dallapasqua.it/2006/11/26/google_il_ragaz/?share=facebook" target="_blank" title="Condividi su Facebook"><span>Facebook</span></a></li><li class="share-google-plus-1"><a rel="nofollow" data-shared="sharing-google-684" class="share-google-plus-1 sd-button share-icon" href="https://dallapasqua.it/2006/11/26/google_il_ragaz/?share=google-plus-1" target="_blank" title="Clicca per condividere su Google+"><span>Google</span></a></li><li class="share-end"></li><li class="share-linkedin"><a rel="nofollow" data-shared="sharing-linkedin-684" class="share-linkedin sd-button share-icon" href="https://dallapasqua.it/2006/11/26/google_il_ragaz/?share=linkedin" target="_blank" title="Fai clic qui per condividere su LinkedIn"><span>LinkedIn</span></a></li><li class="share-tumblr"><a rel="nofollow" data-shared="" class="share-tumblr sd-button share-icon" href="https://dallapasqua.it/2006/11/26/google_il_ragaz/?share=tumblr" target="_blank" title="Clicca per condividere su Tumblr"><span>Tumblr</span></a></li><li class="share-end"></li><li class="share-reddit"><a rel="nofollow" data-shared="" class="share-reddit sd-button share-icon" href="https://dallapasqua.it/2006/11/26/google_il_ragaz/?share=reddit" target="_blank" title="Fai clic qui per condividere su Reddit"><span>Reddit</span></a></li><li class="share-pinterest"><a rel="nofollow" data-shared="sharing-pinterest-684" class="share-pinterest sd-button share-icon" href="https://dallapasqua.it/2006/11/26/google_il_ragaz/?share=pinterest" target="_blank" title="Clicca per condividere su Pinterest"><span>Pinterest</span></a></li><li class="share-end"></li><li class="share-pocket"><a rel="nofollow" data-shared="" class="share-pocket sd-button share-icon" href="https://dallapasqua.it/2006/11/26/google_il_ragaz/?share=pocket" target="_blank" title="Fai clic qui per condividere su Pocket"><span>Pocket</span></a></li><li class="share-print"><a rel="nofollow" data-shared="" class="share-print sd-button share-icon" href="https://dallapasqua.it/2006/11/26/google_il_ragaz/#print" target="_blank" title="Fai clic qui per stampare"><span>Stampa</span></a></li><li class="share-end"></li><li class="share-end"></li></ul></div></div></div></div></div><div class='sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded' id='like-post-wrapper-16321302-684-5940ec54c603f' data-src='//widgets.wp.com/likes/#blog_id=16321302&amp;post_id=684&amp;origin=carlofelice.wordpress.com&amp;obj_id=16321302-684-5940ec54c603f' data-name='like-post-frame-16321302-684-5940ec54c603f'><h3 class='sd-title'>Mi piace:</h3><div class='likes-widget-placeholder post-likes-widget-placeholder' style='height: 55px;'><span class='button'><span>Mi piace</span></span> <span class="loading">Caricamento...</span></div><span class='sd-text-color'></span><a class='sd-link-color'></a></div>
+<div id='jp-relatedposts' class='jp-relatedposts' >
+	<h3 class="jp-relatedposts-headline"><em>Correlati</em></h3>
+</div></div>			</div>
+
+	<div class="meta group">
+		<div class="signature">
+			<p>Written by Carlo Felice Dalla Pasqua <span class="edit"></span></p>
+			<p>26/11/2006 a 12:19 pm</p>
+		</div>
+		<div class="tags">
+			<p>Pubblicato su <a href="https://dallapasqua.it/category/uncategorized/" rel="category tag">Uncategorized</a></p>
+					</div>
+	</div>
+</div>
+<div class="navigation group">
+	<div class="alignleft">&laquo; <a href="https://dallapasqua.it/2006/11/12/my_readers_know/" rel="prev">My readers know more than I do (e il caso&nbsp;Gannett)</a></div>
+	<div class="alignright"><a href="https://dallapasqua.it/2006/12/02/blog_informazio/" rel="next">&#8220;I blog: nuovi autori e nuovi media&#8221; (ci vediamo a&nbsp;Roma?)</a> &raquo;</div>
+</div>
+
+
+<a name="comments" id="comments"></a>
+
+<h3 class="reply">5 Risposte</h3>
+<p class="comment_meta">Subscribe to comments with <a href="https://dallapasqua.it/2006/11/26/google_il_ragaz/feed/">RSS</a>.</p>
+
+<ol class="commentlist">
+<li id="comment-536" class="comment even thread-even depth-1  highlander-comment highlander-comment">
+	<div id="div-comment-536">
+	<div class="comment_mod">
+		</div>
+
+	<div class="comment_text">
+	<p>Se chi rivesta un ruolo simile a &#8216;Google&#8217; sia responsabile oppure no, e se abbia un obbligo giuridico ad impedire simili eventi, non è affatto pacifico, neppure in giurisprdenza, come si può leggere dalla motivazione del Trib. di Catania 2.6.2004:<br />
+[&#8230;] è noto come, tanto in dottrina che in giurisprudenza, si sia prospettato, quanto alla posizione del provider al quale vengano contestati fatti costituenti illecito extracontrattuale, il ricorso a modelli di estensione soggettiva della responsabilità civile, come, ad esempio, la possibilità di ritenere analogicamente applicabile al providerla figura del responsabile editoriale di una testata giornalistica o quella, del tutto affine, dell&#8217;editore televisivo. In tal senso, equiparandosi il gestore di un sito Internet ad un responsabile editoriale, si è così ritenuto possibile ipotizzare l&#8217;applicazione delle norme (art. 57 c.p.) sui reati commessi a mezzo di stampa e attribuire al providerl&#8217;obbligo di verificare la legittimità di tutto il materiale pubblicato sul proprio server, compreso quello inviato da terzi.<br />
+In quest&#8217;ottica, il provider diverrebbe corresponsabile dell&#8217;illecito del terzo utente sulla base di una culpa in vigilando, consistente nel mancato adempimento dell&#8217;obbligo di controllo del materiale inviato sul proprio server (Tribunale di Napoli- caso Cirino Pomicino &#8211; ord . 8 agosto 1996), ove si è affermata la responsabilità civile del provider per aver «autorizzato, consentito, o comunque agevolato il comportamento illecito» di un utente colpevole di aver diffuso in rete messaggi promozionali contenenti nomi e marchi appartenenti a società concorrenti, sul presupposto che della compartecipazione colposa per il provider, assimilabile ad un responsabile editoriale, in quanto «il proprietario di un canale di comunicazione destinato a un pubblico di lettori &#8211; al quale va equiparato quale organo di stampa un sito Internet &#8211; ha l&#8217;obbligo di vigilare sul compimento di atti di concorrenza sleale eventualmente perpetrati attraverso la pubblicazione di messaggi pubblicitari di cui deve verificare la natura palese, veritiera e corretta, concorrendo, in difetto, e a titolo di responsabilità aquiliana, nell&#8217;illecito di concorrenza sleale» (di analogo tenore: Tribunale di Napoli, 8 agosto 1998 &#8211; che ha assimilato il gestore di Rete ad un organo di stampa, con conseguente obbligo di controllo sui contenuti del sito web &#8211; Tribunale di Macerata, 2 dicembre 1998, Tribunale di Teramo, 11 dicembre 1997; Tribunale di Bologna 26 novembre 2001, ove si afferma la responsabilità del providerin virtù dell&#8217;applicabilità in via analogica dell&#8217;art. 11 l. n. 47 del 1948, secondo il quale«per i reati commessi col mezzo della stampa sono civilmente responsabili, in solido con gli autori del reato e fra di loro, il proprietario della pubblicazione e l&#8217;editore».).<br />
+La riferita linea interpretativa è stata, ad avviso del giudicante, correttamente oggetto di puntuali critiche in dottrina e poi in giurisprudenza, denunziandosi come irrealistica l&#8217;affermazione di una «colpa/negligenza» del provider per l&#8217;impossibilità pratica di controllare ogni messaggio inviato su un servern onché rendendo evidenti le differenze di tali ipotesi rispetto a quelle contemplate dalla legge sull&#8217;editoria che renderebbero inapplicabile analogicamente la suddetta disciplina al caso in esame.<br />
+Segnatamente va rilevato come affermare una responsabilità per omesso controllo del provider, in un campo dove è materialmente impossibile operare una verifica dei dati trasmessi da tutto il mondo, equivarrebbe ad introdurre una nuova ed inaccettabile ipotesi di responsabilità oggettiva &#8211; che prescinde dalla colpa &#8211; in aperta eccezione alla regola generale del nostro ordinamento di cui all&#8217;art. 2043 c.c., che fonda la responsabilità civile sulla colpa del danneggiante (per considerazioni analoghe v. Tribunale di Monza, Sez. Distaccata di Desio &#8211; caso «doctor glass», ord. 14 maggio 2001, dove si rileva come, «anche volendo mascherare la responsabilità del providersotto l&#8217;etichetta della culpa in vigilando, detta responsabilità sarebbe di fatto una responsabilità oggettiva legislativamente non tipizzata, non potendosi in alcun modo immaginare mezzi concreti attraverso i quali il providerpotrebbe effettuare la propria vigilanza, considerato anche che il monitoraggio dovrebbe essere costante: è noto, infatti, che ogni sito è modificabile in qualsiasi momento, con una semplice operazione effettuabile anche «in remoto», 24 ore al giorno, 7 giorni su 7)&#8230; (omissis).<br />
+La regola accolta è, dunque, quella in forza della quale il provider sarà responsabile dell&#8217;illecito posto in essere dall&#8217;utilizzatore allorché egli abbia piena consapevolezza del carattere antigiuridico dell&#8217;attività svolta da quest&#8217;ultimo.<br />
+La responsabilità del provider si configura, quindi, alla stregua di una responsabilità soggettiva: colposa, allorché il fornitore del servizio, consapevole della presenza sul sito di materiale sospetto, si astenga dall&#8217;accertarne l&#8217;illiceità e, al tempo stesso, dal rimuoverlo; dolosa, quando egli sia consapevole anche della antigiuridicità della condotta dell&#8217;utente e, ancora una volta, ometta di intervenire [&#8230;].<br />
+Il che, mi pare, vada nella direzione da te auspicata.<br />
+Inoltre, se trattiamo di reati, ricordiamoci che l&#8217;analogia non è consentita nell&#8217;ambito della norma penale (art. 14 preleggi), per cui addebitare a taluno fatti penali perchè la sua condotta è &#8216;equiparabile&#8217; &#8216;simile&#8217; &#8216;assomigliante&#8217; a quelle di qualcun altro (per cui l&#8217;illecito è tipicizzato) non è la scelta privilegiata dal nostro sistema.</p>
+	</div>
+
+	<div class="comment_author vcard">
+	<img alt='' src='https://0.gravatar.com/avatar/cc3755e19a6b47e1f9ced9e16bb206a2?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' />	<p><strong class="fn">Mauro</strong></p>
+	<p><small>
+		27/11/2006 at <a href="#comment-536">12:20 pm</a>			</small></p>
+	</div>
+	<div class="clear"></div>
+
+	<div class="reply">
+		<a rel='nofollow' class='comment-reply-link' href='https://dallapasqua.it/2006/11/26/google_il_ragaz/?replytocom=536#respond' onclick='return addComment.moveForm( "div-comment-536", "536", "respond", "684" )' aria-label='Rispondi a Mauro'>Rispondi</a>	</div>
+	</div>
+</li><!-- #comment-## -->
+<li id="comment-540" class="comment odd alt thread-odd thread-alt depth-1  highlander-comment highlander-comment">
+	<div id="div-comment-540">
+	<div class="comment_mod">
+		</div>
+
+	<div class="comment_text">
+	<p><strong>Google Italia indagata: altro bastone tra le ruote ?</strong></p>
+<p>Ancora una volta, dopo il fallimento/Berlusconi, stiamo apparendo come i soliti incompetenti a livello internazionale (John Battelle e Reuters). Siamo completamente impreparati in materia di internet e il modo di reagire, d&#8230;</p>
+	</div>
+
+	<div class="comment_author vcard">
+	<img alt='' src='https://0.gravatar.com/avatar/?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' />	<p><strong class="fn"><a href='http://www.m4ss.net/2006/11/27/google-italia-indagata-altro-bastone-tra-le-ruote/' rel='external nofollow' class='url'>m4ss.net</a></strong></p>
+	<p><small>
+		27/11/2006 at <a href="#comment-540">5:01 pm</a>			</small></p>
+	</div>
+	<div class="clear"></div>
+
+	<div class="reply">
+		<a rel='nofollow' class='comment-reply-link' href='https://dallapasqua.it/2006/11/26/google_il_ragaz/?replytocom=540#respond' onclick='return addComment.moveForm( "div-comment-540", "540", "respond", "684" )' aria-label='Rispondi a m4ss.net'>Rispondi</a>	</div>
+	</div>
+</li><!-- #comment-## -->
+<li id="comment-537" class="comment even thread-even depth-1  highlander-comment highlander-comment">
+	<div id="div-comment-537">
+	<div class="comment_mod">
+		</div>
+
+	<div class="comment_text">
+	<p>TrackBack for this entry:<br />
+<a href="http://www.m4ss.net/2006/11/27/google-italia-indagata/" rel="nofollow">http://www.m4ss.net/2006/11/27/google-italia-indagata/</a></p>
+	</div>
+
+	<div class="comment_author vcard">
+	<img alt='' src='https://0.gravatar.com/avatar/f068e60a1b4120615a03832192bccf84?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' />	<p><strong class="fn"><a href='http://www.m4ss.net/' rel='external nofollow' class='url'>Davide Gullo</a></strong></p>
+	<p><small>
+		27/11/2006 at <a href="#comment-537">5:24 pm</a>			</small></p>
+	</div>
+	<div class="clear"></div>
+
+	<div class="reply">
+		<a rel='nofollow' class='comment-reply-link' href='https://dallapasqua.it/2006/11/26/google_il_ragaz/?replytocom=537#respond' onclick='return addComment.moveForm( "div-comment-537", "537", "respond", "684" )' aria-label='Rispondi a Davide Gullo'>Rispondi</a>	</div>
+	</div>
+</li><!-- #comment-## -->
+<li id="comment-538" class="comment odd alt thread-odd thread-alt depth-1  highlander-comment highlander-comment">
+	<div id="div-comment-538">
+	<div class="comment_mod">
+		</div>
+
+	<div class="comment_text">
+	<p>Tra poche settimane c&#8217;è l&#8217;uscita del libro &#8220;21&#8221; sul mondo della sindrome di Down, un libro che parla anche di bullismo e il nostro rapporto un po&#8217; disturbato con &#8220;l&#8217;altro&#8221;.<br />
+Si tratta di un libro molto coraggioso (ideato, tra l&#8217;altro, ben prima che succedesse il triste fatto della scuola di Torino, questo solo per puntualizzare), per ora sicuramente unico in Italia. 21 storie in 21 stili per capire le problematiche; storie scritte senza volere nascondere né abbellire, ma nemmeno cadendo nel facile tranello di addolcire il tema. Storie che parlano di sogni (molti dei quali infranti), di amore (quasi mai corrisposto), di problemi (spesso irrisolvibili), di speranze e di angosce, di vita, morte e suicidio, di scelte impossibili e di scelte coraggiose&#8230; insomma, , come l&#8217;ha definito Anna Chiarloni dell&#8217;Indice: &#8220;un libro sul senso della vita&#8221;.<br />
+Un libro dedicato anche alle scuole (dove servirà, e non poco) ma non solo. Saprà catturare i lettori dai 12 ai 99 anni.<br />
+Non per niente S. Gagliotta è diventato editore solo per poter far uscire questo libro.<br />
+Sul sito <a href="http://www.piccoliscrittori.it" rel="nofollow">http://www.piccoliscrittori.it</a> c&#8217;è anche una discussione aperta proprio su questo libro: <a href="http://www.piccoliscrittori.it/forumita/forum.asp?FORUM_ID=20" rel="nofollow">http://www.piccoliscrittori.it/forumita/forum.asp?FORUM_ID=20</a><br />
+Grazie mille per l&#8217;interesse,<br />
+&#8220;Ho letto, con molto interesse, il libro intitolato semplicemente “21”.<br />
+Man mano che leggevo provavo un sempre maggior piacere<br />
+e mi è sembrato particolarmente interessante perché, a differenza della maggior parte dei libri di questo tipo,<br />
+non si concentra solo sugli aspetti estremi del problema, non mette in evidenza soltanto le difficoltà né tenta di minimizzarle.<br />
+Le difficoltà delle persone Down ci sono, possono essere anche molto gravi, ma fortunatamente non sono tutte uguali;<br />
+esistono notevoli differenze.<br />
+Ed è proprio questo che “21” ha saputo cogliere.&#8221;<br />
+dott.ssa Fede Chicco, fondatrice Associazione Down di Torino<br />
+&#8220;Il bambino disabile protagonista di 21 racconti di limpida scrittura,<br />
+lo sguardo inerme di esistenze ferite che ci interrogano.<br />
+Un libro sul senso della vita.&#8221;<br />
+Anna Chiarloni, L&#8217;Indice dei libri del mese<br />
+Uscirà a fine febbraio<br />
+21<br />
+una parte di mondo<br />
+di<br />
+Georg Maag e Valentina Oliva<br />
+illustrazioni di Ilaria Pigaglio<br />
+con 42 pagine di schede didattiche in allegato<br />
+S. Gagliotta Editore, Napoli<br />
+ISBN 88-89945-02-8<br />
+10,90 €<br />
+per le Scuole Medie Inferiori e Superiori<br />
+Odio e amore, egoismo e solidarietà, pregiudizio e accettazione s’intersecano all’interno di 21 racconti che, in diversi stili e con estrema sensibilità, narrano di vite difficili e di persone speciali. Storie di disagi e di paure, ma anche di gioie e di speranze.<br />
+Un caleidoscopio di forti emozioni, un alternarsi di comicità e commozione. Sensazioni sottolineate dai suggestivi ed eloquenti disegni di Ilaria Pigaglio, illustrazioni che evidenziano la sensibilità e la dolcezza proprie di chi vive in “una parte di mondo” definita sindrome di Down.<br />
+21 storie che, con stile accattivante e coinvolgente, toccano importanti tematiche sociali come il rapporto tra genitori e figli, insegnanti e alunni, compagni di scuola, arrivando a raccontare, a volte, di grandi vittorie e di grosse sconfitte.<br />
+Un vero e proprio percorso di convivenza civile che intende avvicinare e sensibilizzare i giovani, ma anche i meno giovani, al temuto e spesso ignorato tema dell’handicap.<br />
+21 non è un libro guida per genitori o educatori di persone Down, né vuole esserlo.<br />
+Si propone come un percorso che avvicina il lettore a quella parte di mondo che appare ancora oggi così lontana a tanti di noi&#8230;<br />
+Due assaggi dal libro:<br />
+Leonardo DiCaprio non esiste<br />
+Erica è una ragazza bassa e paffutella di ventun anni, con i capelli neri a caschetto a inquadrare il suo viso rotondo dominato dagli occhi scuri. Sprizzano gioia, i suoi occhi enormi, si muovono rapidi dietro agli occhiali rotondi. Erica deve vedere tutto, non vuole perdere nemmeno un attimo del mondo che la circonda, muove la testa di qua e di là, muove gli occhi, sorride e deve sistemarsi gli occhiali ogni momento perché continuano a scivolarle sul naso. E non appena li ha sistemati, qual­che rapido movimento del capo li fa scivolare di nuovo in basso e lei li sistema di nuovo mentre sorride. È un po’ timida, ma la voglia di raccontare vince sulla sua timi­dezza.<br />
+Ha tante cose che le piacciono nella vita, così tante e belle che a volte non riesce nemmeno a ricordarsele tutte, quando tenta di spiegartele le si affollano in testa e girano come una grande ruota piena di pensieri e desideri, una ruota che non si ferma, che diventa sem­pre più veloce, e quando Erica sta per cominciare a rac­contare, le altre idee si affollano, cozzano una contro l’altra e lei perde il filo e inizia a girare anche lei assie­me alla ruota.<br />
+«Le cose che mi piacciono?»<br />
+Due tra tutte la fanno sorridere, le fanno luccicare gli occhi espressivi, le fanno scivolare giù sul naso gli occhia­li rotondi. «Sono innamorata», sussurra raggiante e diven­ta rossa. Lancia una rapida occhiata a Stefano, seduto accanto a lei, per un attimo nasconde il viso dietro alle mani. Poi vince la timidezza e rialza la testa. «Da grandi vogliamo sposarci e andare ad abitare insieme!» dice.<br />
+«Ma vi volete bene?»<br />
+«Certo!» Annuisce e deve aggiustarsi gli occhiali, che per poco non le sono caduti in grembo.<br />
+Stefano la guarda con aria sognante. «Sì, ci sposere­mo», dice. Si vede quanto è felice. «Sono più vecchio di Erica di quattro anni. Ci siamo messi insieme un anno fa. No, due anni fa. Un anno fa era morta mia nonna. Mia nonna mi voleva bene e allora, quando è morta, il nonno…»<br />
+«Vogliamo vivere insieme!» Erica lo interrompe e annuisce di nuovo. «Per stare sempre insieme.» Sul suo volto gioia e felicità lasciano per un attimo il posto a un’espressione preoccupata, si vede che si sforza per cacciarla via.<br />
+(&#8230;)<br />
+Pensieri quasi normali sulla normalità<br />
+La professoressa di biologia è sospetta di età pensiona­bile. Alta e secca, due occhi corvini e capelli corti briz­zolati, entra in classe col piglio di un generale quattro stelle che affronta la truppa.<br />
+Si piazza dietro alla cattedra, appoggia la borsa di pelle sulla sedia, mette le mani dietro la schiena dritta, si alza qualche volta in punta di piedi come un tuffatore sul trampolino, fissa la classe con un sorriso e inizia:<br />
+«Voi siete normali?»<br />
+Silenzio di tomba. Siamo spiazzati. Prima è meglio capire dove vuole andare a parare con una domanda così.<br />
+La prof guarda Marta, seduta in prima fila.<br />
+«Lei si considera una persona normale?»<br />
+Marta diventa prima bianca, poi rossa.<br />
+«Parli tranquillamente. Lei si descriverebbe come una persona normale?»<br />
+Marta annuisce. «Sì.»<br />
+«Bene, bene. Sono contenta per lei.»<br />
+La prof guarda Barbara, accanto a Marta. «Anche lei?»<br />
+Barbara sorride. «Direi proprio di sì.»<br />
+La prof segue ovviamente un piano d’azione. Si rivolge a tutti: «Qualcuno di voi qui in classe si considera non normale?» Ovviamente nessuno risponde. Non osiamo nemmeno una facile battuta su un compagno di classe non proprio sveglissimo, chiamandolo scherzosamente «non normale». Non con la prof di biologia che ci osserva con aria di sfida. Meglio aspettare per vedere dove andrà a parare.<br />
+«Bene. Ci avrei giurato!» La prof guarda fuori della finestra, dove il sole ha appena fatto capolino tra le nuvole scure. I suoi raggi invadono l’aula. La prof torna a fissare la classe, si alza due o tre volte in punta di piedi e finalmente inizia la lezione.<br />
+«Per consuetudine oggi dividiamo le persone tra ‘normali’ e ‘non normali’, oppure ‘diversi’… perché chiamarle ‘anormali’, credo mi darete ragione, suonerebbe brutti­no. Questo vale praticamente per tutto il mondo moder­no, con l’eccezione di alcune popolazioni dell’Amazzonia o della Guinea, oggetto di studi, oppure di popoli da tempo sterminati o estinti come, per esempio, alcuni indiani d’America, i quali attribuivano un’importanza fondamentale alle persone ‘non normali’ della loro tribù. Credevano che le loro mancanze sarebbero state bilan­ciate dallo sviluppo di altre capacità preziose, come la chiaroveggenza per un cieco… scusate, oggi si chiamano: ‘non-vedenti’!&#8230; o la previsione del tempo per chi era nato con mutilazioni agli arti eccetera eccetera. Consideravano, insomma, un essere umano sempre come un bicchiere mezzo pieno e mai, come capita nel nostro cosiddetto mondo moderno, come qualcosa di estrema­mente inutile.»<br />
+La prof si è concentrata su Marco. Probabilmente gli è scappato un sorriso. «Secondo lei è così anche oggi?»<br />
+Marco deglutisce. «No!»<br />
+«Bravissimo, Marco», dice la prof, e Marco non capi­sce se lo prende in giro oppure no. Ma ormai è un fiume in piena, la prof. Nessuno la fermerà più.<br />
+«Come Marco ci ha appena spiegato con parole accura­tamente scelte, questo modo di apprezzare il ‘non norma­le’ appartiene al passato. Oggi, le persone si dividono tra ‘normali’ e ‘diversi’ o ‘diversamente abili’. Quest’ultimo modo di chiamarli farebbe sperare in un ritorno alle con­suetudini degli indiani Cheyenne, ma purtroppo non è così: difficilmente ci preoccupiamo di scoprire, in un ‘diversa­mente abile’, la sua diversa abilità. Lo chiamiamo così semplicemente perché suona meglio, è un termine politi­camente corretto, ma sotto l’aspetto umano la sostanza non cambia un granché. È un poveretto esattamente come prima, lo si considera un ‘non normale’. Essendo difficile attribuire un nome a chi non è ‘normale’, possiamo cerca­re un valido aiuto nel dizionario, andando a scoprire cosa ci dice sotto la voce ‘normale’. Ci servirà nella spinosa distinzione tra ‘normali’ e ‘non normali’ in cui siamo finiti.»<br />
+(&#8230;)<br />
+per informazioni:<br />
+<a href="mailto:stefano@gagliottaeditore.it">stefano@gagliottaeditore.it</a><br />
+georg@piccoliscrittori</p>
+	</div>
+
+	<div class="comment_author vcard">
+	<img alt='' src='https://2.gravatar.com/avatar/b78b49b3d0973295ac86ba8a7b4e88e5?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' />	<p><strong class="fn"><a href='http://www.piccoliscrittori.it' rel='external nofollow' class='url'>Georg Maag</a></strong></p>
+	<p><small>
+		14/02/2007 at <a href="#comment-538">6:14 pm</a>			</small></p>
+	</div>
+	<div class="clear"></div>
+
+	<div class="reply">
+		<a rel='nofollow' class='comment-reply-link' href='https://dallapasqua.it/2006/11/26/google_il_ragaz/?replytocom=538#respond' onclick='return addComment.moveForm( "div-comment-538", "538", "respond", "684" )' aria-label='Rispondi a Georg Maag'>Rispondi</a>	</div>
+	</div>
+</li><!-- #comment-## -->
+<li id="comment-539" class="comment even thread-even depth-1  highlander-comment highlander-comment">
+	<div id="div-comment-539">
+	<div class="comment_mod">
+		</div>
+
+	<div class="comment_text">
+	<p>&#8211; &#8220;21&#8221; verrà presentato in anteprima italiana il 21 marzo a Torino, su invito delle associazioni di Torino AssDown e AirDown e con il patrocinato del Comune di Torino e della Regione Piemonte (biblioteca della Corte, presso Villa della Tesoriera, Torino, ore 16.00 in presenza dell&#8217;assessore all&#8217;Istruzione dott.ssa Pentenero);<br />
+&#8211; &#8220;21&#8221; verrà presentato al FantasioFestival di Perugia in data 22 aprile, alle ore 17.30 alla Rocca Paolina;<br />
+&#8211; &#8220;21&#8221; sarà presente anche a Scrittorincittà di Cuneo a novembre 2007 (per questa manifestazione si studierà un percorso preparativo con gruppi di volontariato e le associazioni logopedisti nonché l&#8217;AssDown di Cuneo durante la presentazione presso la Biblioteca Civica di Cuneo, un sabato pomeriggio inizio maggio 2007).</p>
+	</div>
+
+	<div class="comment_author vcard">
+	<img alt='' src='https://2.gravatar.com/avatar/b78b49b3d0973295ac86ba8a7b4e88e5?s=32&#038;d=identicon&#038;r=G' class='avatar avatar-32' height='32' width='32' />	<p><strong class="fn"><a href='http://www.piccoliscrittori.it' rel='external nofollow' class='url'>Georg Maag</a></strong></p>
+	<p><small>
+		28/02/2007 at <a href="#comment-539">7:13 pm</a>			</small></p>
+	</div>
+	<div class="clear"></div>
+
+	<div class="reply">
+		<a rel='nofollow' class='comment-reply-link' href='https://dallapasqua.it/2006/11/26/google_il_ragaz/?replytocom=539#respond' onclick='return addComment.moveForm( "div-comment-539", "539", "respond", "684" )' aria-label='Rispondi a Georg Maag'>Rispondi</a>	</div>
+	</div>
+</li><!-- #comment-## -->
+</ol>
+<div class="navigation">
+	<div class="alignleft"></div>
+	<div class="alignright"></div>
+</div>
+<br />
+
+	
+
+
+	<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Rispondi a <a href="#comment-540">m4ss.net</a> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2006/11/26/google_il_ragaz/#respond">Annulla risposta</a></small></h3>			<form action="https://dallapasqua.it/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+				<input type="hidden" id="highlander_comment_nonce" name="highlander_comment_nonce" value="bdab35940b" /><input type="hidden" name="_wp_http_referer" value="/2006/11/26/google_il_ragaz/?replytocom=540" />
+<input type="hidden" name="hc_post_as" id="hc_post_as" value="guest" />
+
+<div class="comment-form-field comment-textarea">
+	<label for="comment">Scrivi qui il tuo commento...</label>
+	<div id="comment-form-comment"><textarea id="comment" name="comment" title="Scrivi qui il tuo commento..."></textarea></div>
+</div>
+
+<div id="comment-form-identity">
+
+	<div id="comment-form-nascar">
+		<p>Inserisci i tuoi dati qui sotto o clicca su un'icona per effettuare l'accesso:</p>
+		<ul>
+			<li class="selected" style="display:none;">
+				<a href="#comment-form-guest" id="postas-guest" title="Ospite">
+					<span></span>
+				</a>
+			</li>
+			<li>
+				<a href="#comment-form-load-service:WordPress.com" id="postas-wordpress" title="WordPress.com">
+					<span></span>
+				</a>
+			</li>
+			<li>
+				<a href="#comment-form-load-service:Twitter" id="postas-twitter" title="Twitter">
+					<span></span>
+				</a>
+			</li>
+			<li>
+				<a href="#comment-form-load-service:Facebook" id="postas-facebook" title="Facebook">
+					<span></span>
+				</a>
+			</li>
+			<li>
+		</ul>
+	</div>
+
+	<div id="comment-form-guest" class="comment-form-service selected">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+<a href="https://gravatar.com/site/signup/" target="_blank">				<img src="https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&amp;d=identicon&amp;forcedefault=y&amp;r=G" alt="Gravatar" width="25" class="no-grav" />
+</a>			</div>
+
+				<div class="comment-form-fields">
+				<div class="comment-form-field comment-form-email">
+					<label for="email">Email <span class="required">(obbligatorio)</span> <span class="nopublish">(L&#039;indirizzo non verrà pubblicato)</span></label>
+					<div class="comment-form-input"><input id="email" name="email" type="email" value="" /></div>
+				</div>
+				<div class="comment-form-field comment-form-author">
+					<label for="author">Nome <span class="required">(obbligatorio)</span></label>
+					<div class="comment-form-input"><input id="author" name="author" type="text" value="" /></div>
+				</div>
+				<div class="comment-form-field comment-form-url">
+					<label for="url">Sito web</label>
+					<div class="comment-form-input"><input id="url" name="url" type="url" value="" /></div>
+				</div>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-wordpress" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&amp;d=identicon&amp;forcedefault=y&amp;r=G" alt="Logo WordPress.com" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="wp_avatar" id="wordpress-avatar" class="comment-meta-wordpress" value="" />
+				<input type="hidden" name="wp_user_id" id="wordpress-user_id" class="comment-meta-wordpress" value="" />
+				<input type="hidden" name="wp_access_token" id="wordpress-access_token" class="comment-meta-wordpress" value="" />
+				<p class="comment-form-posting-as pa-wordpress"><strong></strong> Stai commentando usando il tuo account WordPress.com. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'wordpress' );">Chiudi&nbsp;sessione</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Modifica</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-twitter" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&amp;d=identicon&amp;forcedefault=y&amp;r=G" alt="Foto Twitter" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="twitter_avatar" id="twitter-avatar" class="comment-meta-twitter" value="" />
+				<input type="hidden" name="twitter_user_id" id="twitter-user_id" class="comment-meta-twitter" value="" />
+				<input type="hidden" name="twitter_access_token" id="twitter-access_token" class="comment-meta-twitter" value="" />
+				<p class="comment-form-posting-as pa-twitter"><strong></strong> Stai commentando usando il tuo account Twitter. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'twitter' );">Chiudi&nbsp;sessione</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Modifica</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-facebook" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&amp;d=identicon&amp;forcedefault=y&amp;r=G" alt="Foto di Facebook " width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="fb_avatar" id="facebook-avatar" class="comment-meta-facebook" value="" />
+				<input type="hidden" name="fb_user_id" id="facebook-user_id" class="comment-meta-facebook" value="" />
+				<input type="hidden" name="fb_access_token" id="facebook-access_token" class="comment-meta-facebook" value="" />
+				<p class="comment-form-posting-as pa-facebook"><strong></strong> Stai commentando usando il tuo account Facebook. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'facebook' );">Chiudi&nbsp;sessione</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Modifica</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-googleplus" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&amp;d=identicon&amp;forcedefault=y&amp;r=G" alt="Google+ photo" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="googleplus_avatar" id="googleplus-avatar" class="comment-meta-googleplus" value="" />
+				<input type="hidden" name="googleplus_user_id" id="googleplus-user_id" class="comment-meta-googleplus" value="" />
+				<input type="hidden" name="googleplus_access_token" id="googleplus-access_token" class="comment-meta-googleplus" value="" />
+				<p class="comment-form-posting-as pa-googleplus"><strong></strong> Stai commentando usando il tuo account Google+. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'googleplus' );">Chiudi&nbsp;sessione</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Modifica</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+
+	<div id="comment-form-load-service" class="comment-form-service">
+		<div class="comment-form-posting-as-cancel"><a href="javascript:HighlanderComments.cancelExternalWindow();">Annulla</a></div>
+		<p>Connessione a %s...</p>
+	</div>
+
+</div>
+
+<script type="text/javascript">
+var highlander_expando_javascript = function(){
+	var input = document.createElement( 'input' ),
+	    comment = jQuery( '#comment' );
+
+	if ( 'placeholder' in input ) {
+		comment.attr( 'placeholder', jQuery( '.comment-textarea label' ).remove().text() );
+	}
+
+	// Expando Mode: start small, then auto-resize on first click + text length
+	jQuery( '#comment-form-identity' ).hide();
+	jQuery( '#comment-form-subscribe' ).hide();
+	jQuery( '#commentform .form-submit' ).hide();
+
+	comment.css( { 'height':'10px' } ).one( 'focus', function() {
+		var timer = setInterval( HighlanderComments.resizeCallback, 10 )
+		jQuery( this ).animate( { 'height': HighlanderComments.initialHeight } ).delay( 100 ).queue( function(n) { clearInterval( timer ); HighlanderComments.resizeCallback(); n(); } );
+		jQuery( '#comment-form-identity' ).slideDown();
+		jQuery( '#comment-form-subscribe' ).slideDown();
+		jQuery( '#commentform .form-submit' ).slideDown();
+	});
+}
+jQuery(document).ready( highlander_expando_javascript );
+</script>
+
+<div id="comment-form-subscribe">
+	<p class="comment-subscription-form"><input type="checkbox" name="subscribe" id="subscribe" value="subscribe" style="width: auto;"/> <label class="subscribe-label" id="subscribe-label" for="subscribe" style="display: inline;">Notificami nuovi commenti via e-mail</label></p></div>
+
+
+
+
+<p class="form-submit"><input name="submit" type="submit" id="comment-submit" class="submit" value="Pubblica un commento" /> <input type='hidden' name='comment_post_ID' value='684' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='540' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="73b5dc5766" /></p>
+<input type="hidden" name="genseq" value="1497427028" />
+<p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="17"/></p>			</form>
+			</div><!-- #respond -->
+	<div style="clear: both"></div>
+
+
+</div>
+
+<div id="sidebar">
+<h3>@CarloFelice</h3><a class="twitter-timeline" data-width="225" data-height="500" data-theme="light" data-link-color="#f96e5b" data-border-color="#e8e8e8" data-lang="IT" data-partner="jetpack" data-widget-id="365848875694702594">I miei Cinguettii</a><h3>Instagram</h3><div class="wpcom-instagram-images wpcom-instagram-columns-1">
+<a href="https://www.instagram.com/p/BK5TitAhnDi/"><img src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/e15/14498868_309489872743082_7642678128938057728_n.jpg" width="640" height="640" alt="Volteggi in bianco sui trampoli" title="Volteggi in bianco sui trampoli" /></a>
+<a href="https://www.instagram.com/p/BK5EaFthGa1/"><img src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/14488374_315318858831981_8526506055411171328_n.jpg" width="640" height="640" alt="Acque trevigiane (da porta Calvi verso il Ponte de Fero)" title="Acque trevigiane (da porta Calvi verso il Ponte de Fero)" /></a>
+</div>
+<h3>Blogroll</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://codex.wordpress.org/">Documentation</a></li>
+<li><a href="http://wordpress.org/extend/plugins/">Plugins</a></li>
+<li><a href="http://wordpress.org/extend/ideas/">Suggest Ideas</a></li>
+<li><a href="http://wordpress.org/support/">Support Forum</a></li>
+<li><a href="http://wordpress.org/extend/themes/">Themes</a></li>
+<li><a href="http://wordpress.org/news/">WordPress Blog</a></li>
+<li><a href="http://planet.wordpress.org/">WordPress Planet</a></li>
+
+	</ul>
+
+<h3>Archivi</h3>		<ul>
+			<li><a href='https://dallapasqua.it/2014/07/'>luglio 2014</a></li>
+	<li><a href='https://dallapasqua.it/2014/01/'>gennaio 2014</a></li>
+	<li><a href='https://dallapasqua.it/2013/09/'>settembre 2013</a></li>
+	<li><a href='https://dallapasqua.it/2013/08/'>agosto 2013</a></li>
+	<li><a href='https://dallapasqua.it/2012/11/'>novembre 2012</a></li>
+	<li><a href='https://dallapasqua.it/2012/09/'>settembre 2012</a></li>
+	<li><a href='https://dallapasqua.it/2012/04/'>aprile 2012</a></li>
+	<li><a href='https://dallapasqua.it/2012/03/'>marzo 2012</a></li>
+	<li><a href='https://dallapasqua.it/2011/04/'>aprile 2011</a></li>
+	<li><a href='https://dallapasqua.it/2011/03/'>marzo 2011</a></li>
+	<li><a href='https://dallapasqua.it/2010/12/'>dicembre 2010</a></li>
+	<li><a href='https://dallapasqua.it/2010/11/'>novembre 2010</a></li>
+	<li><a href='https://dallapasqua.it/2010/10/'>ottobre 2010</a></li>
+	<li><a href='https://dallapasqua.it/2010/08/'>agosto 2010</a></li>
+	<li><a href='https://dallapasqua.it/2010/05/'>maggio 2010</a></li>
+	<li><a href='https://dallapasqua.it/2009/11/'>novembre 2009</a></li>
+	<li><a href='https://dallapasqua.it/2009/03/'>marzo 2009</a></li>
+	<li><a href='https://dallapasqua.it/2008/12/'>dicembre 2008</a></li>
+	<li><a href='https://dallapasqua.it/2008/11/'>novembre 2008</a></li>
+	<li><a href='https://dallapasqua.it/2008/09/'>settembre 2008</a></li>
+	<li><a href='https://dallapasqua.it/2008/08/'>agosto 2008</a></li>
+	<li><a href='https://dallapasqua.it/2008/07/'>luglio 2008</a></li>
+	<li><a href='https://dallapasqua.it/2008/05/'>maggio 2008</a></li>
+	<li><a href='https://dallapasqua.it/2008/02/'>febbraio 2008</a></li>
+	<li><a href='https://dallapasqua.it/2008/01/'>gennaio 2008</a></li>
+	<li><a href='https://dallapasqua.it/2007/12/'>dicembre 2007</a></li>
+	<li><a href='https://dallapasqua.it/2007/11/'>novembre 2007</a></li>
+	<li><a href='https://dallapasqua.it/2007/10/'>ottobre 2007</a></li>
+	<li><a href='https://dallapasqua.it/2007/09/'>settembre 2007</a></li>
+	<li><a href='https://dallapasqua.it/2007/08/'>agosto 2007</a></li>
+	<li><a href='https://dallapasqua.it/2007/07/'>luglio 2007</a></li>
+	<li><a href='https://dallapasqua.it/2007/03/'>marzo 2007</a></li>
+	<li><a href='https://dallapasqua.it/2007/02/'>febbraio 2007</a></li>
+	<li><a href='https://dallapasqua.it/2007/01/'>gennaio 2007</a></li>
+	<li><a href='https://dallapasqua.it/2006/12/'>dicembre 2006</a></li>
+	<li><a href='https://dallapasqua.it/2006/11/'>novembre 2006</a></li>
+	<li><a href='https://dallapasqua.it/2006/10/'>ottobre 2006</a></li>
+	<li><a href='https://dallapasqua.it/2006/09/'>settembre 2006</a></li>
+	<li><a href='https://dallapasqua.it/2006/08/'>agosto 2006</a></li>
+	<li><a href='https://dallapasqua.it/2006/07/'>luglio 2006</a></li>
+	<li><a href='https://dallapasqua.it/2006/06/'>giugno 2006</a></li>
+	<li><a href='https://dallapasqua.it/2006/05/'>maggio 2006</a></li>
+	<li><a href='https://dallapasqua.it/2006/03/'>marzo 2006</a></li>
+	<li><a href='https://dallapasqua.it/2006/02/'>febbraio 2006</a></li>
+	<li><a href='https://dallapasqua.it/2006/01/'>gennaio 2006</a></li>
+	<li><a href='https://dallapasqua.it/2005/12/'>dicembre 2005</a></li>
+	<li><a href='https://dallapasqua.it/2005/11/'>novembre 2005</a></li>
+	<li><a href='https://dallapasqua.it/2005/10/'>ottobre 2005</a></li>
+	<li><a href='https://dallapasqua.it/2005/09/'>settembre 2005</a></li>
+	<li><a href='https://dallapasqua.it/2005/08/'>agosto 2005</a></li>
+	<li><a href='https://dallapasqua.it/2005/07/'>luglio 2005</a></li>
+	<li><a href='https://dallapasqua.it/2005/06/'>giugno 2005</a></li>
+	<li><a href='https://dallapasqua.it/2005/05/'>maggio 2005</a></li>
+		</ul>
+		<h3>Categorie</h3>		<ul>
+	<li class="cat-item cat-item-1"><a href="https://dallapasqua.it/category/uncategorized/" >Uncategorized</a>
+</li>
+	<li class="cat-item cat-item-1707"><a href="https://dallapasqua.it/category/webtech/" >Web/Tech</a>
+</li>
+		</ul>
+<h3>Meta</h3>			<ul>
+			<li><a href="https://wordpress.com/start/it?ref=wplogin">Registrati</a></li>			<li><a href="https://carlofelice.wordpress.com/wp-login.php">Accedi</a></li>
+			<li><a href="https://dallapasqua.it/feed/"><abbr title="Really Simple Syndication">RSS</abbr> degli articoli</a></li>
+			<li><a href="https://dallapasqua.it/comments/feed/"><abbr title="Really Simple Syndication">RSS</abbr> dei commenti</a></li>
+			<li><a href="https://wordpress.com/" title="Powered by WordPress, allo stato dell’arte una piattaforma di editoria personale semantica-">WordPress.com</a></li>			</ul>
+			
+
+</div>
+
+</div>
+
+<div id="footer">
+	<p><a href="https://wordpress.com/?ref=footer_blog">Blog su WordPress.com.</a> </p>
+</div>
+<!--  -->
+<script type='text/javascript' src='//0.gravatar.com/js/gprofiles.js?ver=201724y'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1380573781h'></script>
+
+	<script>
+		//initialize and attach hovercards to all gravatars
+		jQuery( document ).ready( function( $ ) {
+
+			if (typeof Gravatar === "undefined"){
+				return;
+			}
+
+			if ( typeof Gravatar.init !== "function" ) {
+				return;
+			}			
+
+			Gravatar.profile_cb = function( hash, id ) {
+				WPGroHo.syncProfileData( hash, id );
+			};
+			Gravatar.my_hash = WPGroHo.my_hash;
+			Gravatar.init( 'body', '#wp-admin-bar-my-account' );
+		});
+	</script>
+
+		<div style="display:none">
+	<div class="grofile-hash-map-cc3755e19a6b47e1f9ced9e16bb206a2">
+	</div>
+	<div class="grofile-hash-map-d41d8cd98f00b204e9800998ecf8427e">
+	</div>
+	<div class="grofile-hash-map-f068e60a1b4120615a03832192bccf84">
+	</div>
+	<div class="grofile-hash-map-b78b49b3d0973295ac86ba8a7b4e88e5">
+	</div>
+	</div>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var HighlanderComments = {"loggingInText":"Accesso in corso\u2026","submittingText":"Pubblicazione del commento...","postCommentText":"Pubblica un commento","connectingToText":"Connessione a %s...","commentingAsText":"%1$s: Stai commentando usando il tuo account %2$s.","logoutText":"Esci","loginText":"Accedi","connectURL":"https:\/\/carlofelice.wordpress.com\/public.api\/connect\/?action=request","logoutURL":"https:\/\/carlofelice.wordpress.com\/wp-login.php?action=logout&_wpnonce=d48ae0d39e","homeURL":"https:\/\/dallapasqua.it\/","postID":"684","gravDefault":"identicon","enterACommentError":"Per favore inserisci un commento","enterEmailError":"Inserisci il tuo indirizzo e-mail qui","invalidEmailError":"Indirizzo email non valido","enterAuthorError":"Inserisci il tuo nome qui","gravatarFromEmail":"Questa immagine sar\u00e0 mostrata ogni volta che lasci un commento. Clicca per personalizzarla.","logInToExternalAccount":"Accedi per utilizzare i dati di uno di questi account.","change":"Modifica","changeAccount":"Cambia account","comment_registration":"0","userIsLoggedIn":"","isJetpack":"0","text_direction":"ltr"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??/wp-content/js/jquery/jquery.autoresize.js,/wp-content/mu-plugins/highlander-comments/script.js?m=1479964158j'></script>
+
+	<script type="text/javascript">
+		window.WPCOM_sharing_counts = {"https:\/\/dallapasqua.it\/2006\/11\/26\/google_il_ragaz\/":684};
+	</script>
+	<div id="sharing_email" style="display: none;">
+		<form action="/2006/11/26/google_il_ragaz/?replytocom=540" method="post">
+			<label for="target_email">Invia a indirizzo e-mail</label>
+			<input type="email" name="target_email" id="target_email" value="" />
+
+			
+				<label for="source_name">Il tuo nome</label>
+				<input type="text" name="source_name" id="source_name" value="" />
+
+				<label for="source_email">Il tuo indirizzo e-mail</label>
+				<input type="email" name="source_email" id="source_email" value="" />
+
+						<input type="text" id="jetpack-source_f_name" name="source_f_name" class="input" value="" size="25" autocomplete="off" />
+			<script> document.getElementById('jetpack-source_f_name').value = ''; </script>
+			<div class="recaptcha" id="sharing_recaptcha"></div><input type="hidden" name="recaptcha_public_key" id="recaptcha_public_key" value="6LcYW8MSAAAAADBAuEH9yaPcF7lWh11Iq62ZKtoo" />
+			<img style="float: right; display: none" class="loading" src="https://s2.wp.com/wp-content/mu-plugins/post-flair/sharing/images/loading.gif" alt="loading" width="16" height="16" />
+			<input type="submit" value="Invia e-mail" class="sharing_send" />
+			<a rel="nofollow" href="#cancel" class="sharing_cancel">Annulla</a>
+
+			<div class="errors errors-1" style="display: none;">
+				L'articolo non è stato pubblicato, controlla gli indirizzi e-mail!			</div>
+
+			<div class="errors errors-2" style="display: none;">
+				Verifica dell'e-mail non riuscita. Riprova.			</div>
+
+			<div class="errors errors-3" style="display: none;">
+				Ci dispiace, il tuo blog non consente di condividere articoli tramite e-mail.			</div>
+		</form>
+	</div>
+		<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-twitter' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-facebook' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-google-plus-1' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomgoogle-plus-1', 'menubar=1,resizable=1,width=480,height=550' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-linkedin' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomlinkedin', 'menubar=1,resizable=1,width=580,height=450' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-tumblr' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomtumblr', 'menubar=1,resizable=1,width=450,height=450' );
+				return false;
+			});
+		});
+		</script>
+							<script type="text/javascript">
+				jQuery(document).on('ready', function(){
+					jQuery('body').on('click', 'a.share-pinterest', function(e){
+						e.preventDefault();
+						// Load Pinterest Bookmarklet code
+						var s = document.createElement("script");
+						s.type = "text/javascript";
+						s.src = window.location.protocol + "//assets.pinterest.com/js/pinmarklet.js?r=" + ( Math.random() * 99999999 );
+						var x = document.getElementsByTagName("script")[0];
+						x.parentNode.insertBefore(s, x);
+						// Trigger Stats
+						var s = document.createElement("script");
+						s.type = "text/javascript";
+						s.src = this + ( this.toString().indexOf( '?' ) ? '&' : '?' ) + 'js_only=1';
+						var x = document.getElementsByTagName("script")[0];
+						x.parentNode.insertBefore(s, x);
+					});
+				});
+			</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-pocket' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcompocket', 'menubar=1,resizable=1,width=450,height=450' );
+				return false;
+			});
+		});
+		</script>
+		<script type='text/javascript' src='https://s1.wp.com/wp-content/mu-plugins/akismet-3.0/_inc/form.js?m=1404442431h'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var actionbardata = {"siteID":"16321302","siteName":"Carlo Felice Dalla Pasqua","siteURL":"https:\/\/dallapasqua.it","icon":"<img alt='' src='https:\/\/secure.gravatar.com\/blavatar\/a0ded00f855735641e4cb4e70348ce55?s=50&d=https%3A%2F%2Fs1.wp.com%2Fi%2Flogo%2Fwpcom-gray-white.png' class='avatar avatar-50' height='50' width='50' \/>","canManageOptions":"","canCustomizeSite":"","isFollowing":"","themeSlug":"pub\/journalist","signupURL":"https:\/\/wordpress.com\/start\/","loginURL":"https:\/\/carlofelice.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fdallapasqua.it%2F2006%2F11%2F26%2Fgoogle_il_ragaz%2F","themeURL":"","xhrURL":"https:\/\/dallapasqua.it\/wp-admin\/admin-ajax.php","nonce":"118bafee4d","isSingular":"1","isFolded":"","isLoggedIn":"","isMobile":"","subscribeNonce":"<input type=\"hidden\" id=\"_wpnonce\" name=\"_wpnonce\" value=\"e266e70718\" \/>","referer":"https:\/\/dallapasqua.it\/2006\/11\/26\/google_il_ragaz\/?replytocom=540","canFollow":"1","statusMessage":"","customizeLink":"https:\/\/carlofelice.wordpress.com\/wp-admin\/customize.php?url=https%3A%2F%2Fcarlofelice.wordpress.com%2F2006%2F11%2F26%2Fgoogle_il_ragaz%2F%3Freplytocom%3D540","postID":"684","shortlink":"http:\/\/wp.me\/p16tUO-b2","canEditPost":"","editLink":"https:\/\/wordpress.com\/post\/dallapasqua.it\/684","statsLink":"https:\/\/wordpress.com\/stats\/post\/684\/dallapasqua.it","i18n":{"view":"Visualizza il sito","follow":"Iscriviti","following":"Stai seguendo","edit":"Modifica","login":"Accedi","signup":"Registrati","customize":"Personalizza","report":"Segnala questo contenuto","themeInfo":"Ottieni tema: The Journalist v1.9","shortlink":"Copia shortlink","copied":"Copiato","followedText":"I nuovi articoli da questo sito saranno ora visibili nel tuo <a href=\"https:\/\/wordpress.com\/\">Reader<\/a>","foldBar":"Comprimi questa barra","unfoldBar":"Espandi questa barra","editSubs":"Gestisci abbonamenti","viewReader":"Visualizza sito nel Reader","subscribe":"Registrami","enterEmail":"Inserisci il tuo indirizzo e-mail","followers":"Segui assieme ad altri 5.376 follower","alreadyUser":"Hai gi\u00e0 un account WordPress.com? <a href=\"https:\/\/carlofelice.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fdallapasqua.it%2F2006%2F11%2F26%2Fgoogle_il_ragaz%2F\">Accedi ora.<\/a>","stats":"Statistiche"}};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??-eJx9jtEOgjAMRX/IUTBG44PxU8wcFQpbN7cO9O8dDxCfeOpNe89JYQ7KeBZkgSFBixMZDJ9qSAf4O7msgs0dcQJLIyZ4Z8zYa24txrVMbGxuy7GIjHeugCpisN/KEe8YB5SgzQiPIgCZSQSjEnJoiXGH023xqqeO4HQqTEnKTxgjLU9suz2DEfK8GLa00w4+iXpZTRFSryNxt84C3d2tOV2PdX1ujpfhBy0egD8='></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script>		<iframe src='https://widgets.wp.com/likes/master.html?ver=20170206#ver=20170206&amp;lang=it' scrolling='no' id='likes-master' name='likes-master' style='display:none;'></iframe>
+		<div id='likes-other-gravatars'><div class="likes-text"><span>%d</span> blogger hanno fatto clic su Mi Piace per questo: </div><ul class="wpl-avatars sd-like-gravatars"></ul></div>
+		<script>
+			var _comscore = _comscore || [];
+			_comscore.push({
+				c1: "2",
+				c2: "7518284"
+			});
+			(function() {
+				var s = document.createElement("script"),
+					el = document.getElementsByTagName("script")[0];
+				s.defer = true;
+				s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+				el.parentNode.insertBefore(s, el);
+			})();
+		</script>
+		<noscript>
+			<p class="robots-nocontent"><img src="https://sb.scorecardresearch.com/p?c1=2&c2=7518284&c3=&c4=&c5=&c6=&c15=&cv=2.0&cj=1" alt="" style="display:none;" width="1" height="1" /></p>
+		</noscript><script src="//stats.wp.com/w.js?56" type="text/javascript" async defer></script>
+<script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'16321302','blog_tz':'1','user_lang':'it','blog_lang':'it','user_id':'0'}]);
+_stq.push(['view', {'blog':'16321302','v':'wpcom','tz':'1','user_id':'0','post':'684','subd':'carlofelice'}]);
+_stq.push(['extra', {'crypt':'UE40eW5QN0p8M2Y/RE1TaVhzUzFMbjdWNHpwZGhTayxPSUFCMGRVYVNrSFguN3FwSmQ5RGtNX3VQcj1yVzhiflM1THQtLGFdQ2toOXYlflppNGZnJWRUflRnbnFsRWhudnlJUE8mdi4weCsxcGpHfHlQal8rRUM1d1JCdERkSTZzNnduPUxCYW9aRUNbMlh6Ny5jSXcubkw/czdYTnhzX1JCfEk5UnJmeVU3aFM0XThiQUIsdFR3UUxFcV9oJjNqSEFvVSxtXUtHLVU3WjVWbl8zMmtGVzB1XTN1Y2RORnBId3x2LHp+Mjk2dkpWelNpenk2aFlsXS5RQk9HPzlIWVRGXXRXdEF3Nys4ZF1GSksxSmU0QXcrWWl0WnZEfHM2LD9OK1diakI/QUFfNmltYXYzMlRkRzFob2t4WV1Wd35sQj9oL34tN0clcVtj'}]);
+_stq.push([ 'clickTrackerInit', '16321302', '684' ]);
+	</script>
+<noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script>
+</body>
+</html>

@@ -1,0 +1,466 @@
+<!doctype html>
+<html amp lang="it-IT">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no">
+	
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Della (scarsa) utilità dell&#8217;Ordine dei giornalisti" />
+<meta property="og:url" content="https://dallapasqua.it/2005/07/31/utilit_e_inutil/" />
+<meta property="og:description" content="Il 15 giugno 1997 si votò anche un referendum per l&#8217;abolizione dell&#8217;Ordine dei giornalisti. Il referendum fallì, perché rimase ben lontano dal quorum (votò il 30 per cento degli aventi …" />
+<meta property="article:published_time" content="2005-07-31T07:29:00+00:00" />
+<meta property="article:modified_time" content="2005-07-31T07:29:00+00:00" />
+<meta property="og:site_name" content="Carlo Felice Dalla Pasqua" />
+<meta property="og:image" content="https://secure.gravatar.com/blavatar/a0ded00f855735641e4cb4e70348ce55?s=200&amp;ts=1497428151" />
+<meta property="og:image:width" content="200" />
+<meta property="og:image:height" content="200" />
+<meta property="og:locale" content="it_IT" />
+<meta name="twitter:site" content="@CarloFelice" />
+<meta name="twitter:text:title" content="Della (scarsa) utilità dell&#8217;Ordine dei giornalisti" />
+<meta name="twitter:image" content="https://secure.gravatar.com/blavatar/a0ded00f855735641e4cb4e70348ce55?s=240" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:creator" content="@CarloFelice" />
+<meta property="article:publisher" content="https://www.facebook.com/WordPresscom" />
+	<title>Della (scarsa) utilità dell&#8217;Ordine dei giornalisti &#8211; Carlo Felice Dalla Pasqua</title>
+		<link rel="canonical" href="https://dallapasqua.it/2005/07/31/utilit_e_inutil/" />
+		<script src="https://cdn.ampproject.org/v0.js" async></script>
+			<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Merriweather:400,400italic,700,700italic">
+		<style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+		<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"BlogPosting","mainEntityOfPage":"https:\/\/dallapasqua.it\/2005\/07\/31\/utilit_e_inutil\/","publisher":{"@type":"Organization","name":"Carlo Felice Dalla Pasqua","logo":{"@type":"ImageObject","url":"https:\/\/secure.gravatar.com\/blavatar\/a0ded00f855735641e4cb4e70348ce55?s=60&d=https%3A%2F%2Fs2.wp.com%2Fi%2Ffavicons%2Fapple-touch-icon-60x60.png","width":60,"height":60}},"headline":"Della (scarsa) utilit\u00e0 dell&#8217;Ordine dei giornalisti","datePublished":"2005-07-31T08:29:00+00:00","dateModified":"2005-07-31T08:29:00+00:00","author":{"@type":"Person","name":"Carlo Felice Dalla Pasqua"},"image":{"@type":"ImageObject","url":"https:\/\/secure.gravatar.com\/blavatar\/a0ded00f855735641e4cb4e70348ce55?s=200","width":200,"height":200}}</script>
+		<style amp-custom>
+		/* Generic WP styling */
+
+.alignright {
+	float: right;
+}
+
+.alignleft {
+	float: left;
+}
+
+.aligncenter {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.amp-wp-enforced-sizes {
+	/** Our sizes fallback is 100vw, and we have a padding on the container; the max-width here prevents the element from overflowing. **/
+	max-width: 100%;
+	margin: 0 auto;
+}
+
+.amp-wp-unknown-size img {
+	/** Worst case scenario when we can't figure out dimensions for an image. **/
+	/** Force the image into a box of fixed dimensions and use object-fit to scale. **/
+	object-fit: contain;
+}
+
+/* Template Styles */
+
+.amp-wp-content,
+.amp-wp-title-bar div {
+		margin: 0 auto;
+	max-width: 700px;
+	}
+
+html {
+	background: #0a89c0;
+}
+
+body {
+	background: #fff;
+	color: #353535;
+	font-family: 'Merriweather', 'Times New Roman', Times, Serif;
+	font-weight: 300;
+	line-height: 1.75em;
+}
+
+p,
+ol,
+ul,
+figure {
+	margin: 0 0 1em;
+	padding: 0;
+}
+
+a,
+a:visited {
+	color: #0a89c0;
+}
+
+a:hover,
+a:active,
+a:focus {
+	color: #353535;
+}
+
+/* Quotes */
+
+blockquote {
+	color: #353535;
+	background: rgba(127,127,127,.125);
+	border-left: 2px solid #0a89c0;
+	margin: 8px 0 24px 0;
+	padding: 16px;
+}
+
+blockquote p:last-child {
+	margin-bottom: 0;
+}
+
+/* UI Fonts */
+
+.amp-wp-meta,
+.amp-wp-header div,
+.amp-wp-title,
+.wp-caption-text,
+.amp-wp-tax-category,
+.amp-wp-tax-tag,
+.amp-wp-comments-link,
+.amp-wp-footer p,
+.back-to-top {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen-Sans", "Ubuntu", "Cantarell", "Helvetica Neue", sans-serif;
+}
+
+/* Header */
+
+.amp-wp-header {
+	background-color: #0a89c0;
+}
+
+.amp-wp-header div {
+	color: #fff;
+	font-size: 1em;
+	font-weight: 400;
+	margin: 0 auto;
+	max-width: calc(840px - 32px);
+	padding: .875em 16px;
+	position: relative;
+}
+
+.amp-wp-header a {
+	color: #fff;
+	text-decoration: none;
+}
+
+/* Site Icon */
+
+.amp-wp-header .amp-wp-site-icon {
+	/** site icon is 32px **/
+	background-color: #fff;
+	border: 1px solid #fff;
+	border-radius: 50%;
+	position: absolute;
+	right: 18px;
+	top: 10px;
+}
+
+/* Article */
+
+.amp-wp-article {
+	color: #353535;
+	font-weight: 400;
+	margin: 1.5em auto;
+	max-width: 840px;
+	overflow-wrap: break-word;
+	word-wrap: break-word;
+}
+
+/* Article Header */
+
+.amp-wp-article-header {
+	align-items: center;
+	align-content: stretch;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	margin: 1.5em 16px 1.5em;
+}
+
+.amp-wp-title {
+	color: #353535;
+	display: block;
+	flex: 1 0 100%;
+	font-weight: 900;
+	margin: 0 0 .625em;
+	width: 100%;
+}
+
+/* Article Meta */
+
+.amp-wp-meta {
+	color: #696969;
+	display: inline-block;
+	flex: 2 1 50%;
+	font-size: .875em;
+	line-height: 1.5em;
+	margin: 0;
+	padding: 0;
+}
+
+.amp-wp-article-header .amp-wp-meta:last-of-type {
+	text-align: right;
+}
+
+.amp-wp-article-header .amp-wp-meta:first-of-type {
+	text-align: left;
+}
+
+.amp-wp-byline amp-img,
+.amp-wp-byline .amp-wp-author {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.amp-wp-byline amp-img {
+	border: 1px solid #0a89c0;
+	border-radius: 50%;
+	position: relative;
+	margin-right: 6px;
+}
+
+.amp-wp-posted-on {
+	text-align: right;
+}
+
+/* Featured image */
+
+.amp-wp-article-featured-image {
+	margin: 0 0 1em;
+}
+.amp-wp-article-featured-image amp-img {
+	margin: 0 auto;
+}
+.amp-wp-article-featured-image.wp-caption .wp-caption-text {
+	margin: 0 18px;
+}
+
+/* Article Content */
+
+.amp-wp-article-content {
+	margin: 0 16px;
+}
+
+.amp-wp-article-content ul,
+.amp-wp-article-content ol {
+	margin-left: 1em;
+}
+
+.amp-wp-article-content amp-img {
+	margin: 0 auto;
+}
+
+.amp-wp-article-content amp-img.alignright {
+	margin: 0 0 1em 16px;
+}
+
+.amp-wp-article-content amp-img.alignleft {
+	margin: 0 16px 1em 0;
+}
+
+/* Captions */
+
+.wp-caption {
+	padding: 0;
+}
+
+.wp-caption.alignleft {
+	margin-right: 16px;
+}
+
+.wp-caption.alignright {
+	margin-left: 16px;
+}
+
+.wp-caption .wp-caption-text {
+	border-bottom: 1px solid #c2c2c2;
+	color: #696969;
+	font-size: .875em;
+	line-height: 1.5em;
+	margin: 0;
+	padding: .66em 10px .75em;
+}
+
+/* AMP Media */
+
+amp-carousel {
+	background: #c2c2c2;
+	margin: 0 -16px 1.5em;
+}
+amp-iframe,
+amp-youtube,
+amp-instagram,
+amp-vine {
+	background: #c2c2c2;
+	margin: 0 -16px 1.5em;
+}
+
+.amp-wp-article-content amp-carousel amp-img {
+	border: none;
+}
+
+amp-carousel > amp-img > img {
+	object-fit: contain;
+}
+
+.amp-wp-iframe-placeholder {
+	background: #c2c2c2 url( https://s2.wp.com/wp-content/plugins/amp/assets/images/placeholder-icon.png ) no-repeat center 40%;
+	background-size: 48px 48px;
+	min-height: 48px;
+}
+
+/* Article Footer Meta */
+
+.amp-wp-article-footer .amp-wp-meta {
+	display: block;
+}
+
+.amp-wp-tax-category,
+.amp-wp-tax-tag {
+	color: #696969;
+	font-size: .875em;
+	line-height: 1.5em;
+	margin: 1.5em 16px;
+}
+
+.amp-wp-comments-link {
+	color: #696969;
+	font-size: .875em;
+	line-height: 1.5em;
+	text-align: center;
+	margin: 2.25em 0 1.5em;
+}
+
+.amp-wp-comments-link a {
+	border-style: solid;
+	border-color: #c2c2c2;
+	border-width: 1px 1px 2px;
+	border-radius: 4px;
+	background-color: transparent;
+	color: #0a89c0;
+	cursor: pointer;
+	display: block;
+	font-size: 14px;
+	font-weight: 600;
+	line-height: 18px;
+	margin: 0 auto;
+	max-width: 200px;
+	padding: 11px 16px;
+	text-decoration: none;
+	width: 50%;
+	-webkit-transition: background-color 0.2s ease;
+			transition: background-color 0.2s ease;
+}
+
+/* AMP Footer */
+
+.amp-wp-footer {
+	border-top: 1px solid #c2c2c2;
+	margin: calc(1.5em - 1px) 0 0;
+}
+
+.amp-wp-footer div {
+	margin: 0 auto;
+	max-width: calc(840px - 32px);
+	padding: 1.25em 16px 1.25em;
+	position: relative;
+}
+
+.amp-wp-footer h2 {
+	font-size: 1em;
+	line-height: 1.375em;
+	margin: 0 0 .5em;
+}
+
+.amp-wp-footer p {
+	color: #696969;
+	font-size: .8em;
+	line-height: 1.5em;
+	margin: 0 85px 0 0;
+}
+
+.amp-wp-footer a {
+	text-decoration: none;
+}
+
+.back-to-top {
+	bottom: 1.275em;
+	font-size: .8em;
+	font-weight: 600;
+	line-height: 2em;
+	position: absolute;
+	right: 16px;
+}
+			</style>
+</head>
+
+<body class="">
+
+<header id="#top" class="amp-wp-header">
+	<div>
+		<a href="https://dallapasqua.it">
+						Carlo Felice Dalla Pasqua		</a>
+	</div>
+</header>
+
+<article class="amp-wp-article">
+
+	<header class="amp-wp-article-header">
+		<h1 class="amp-wp-title">Della (scarsa) utilità dell&#8217;Ordine dei giornalisti</h1>
+				<div class="amp-wp-meta amp-wp-byline">
+					<amp-img src="https://secure.gravatar.com/avatar/c56c58df44c4e07f238b3928b549ea25?s=24&#038;d=identicon&#038;r=g" width="24" height="24" layout="fixed"></amp-img>
+				<span class="amp-wp-author author vcard">Carlo Felice Dalla Pasqua</span>
+	</div>
+<div class="amp-wp-meta amp-wp-posted-on">
+	<time datetime="2005-07-31T08:29:00+00:00">
+		12 anni ago	</time>
+</div>
+	</header>
+
+	
+	<div class="amp-wp-article-content">
+		<p>Il 15 giugno 1997 si votò anche un referendum per l’abolizione dell’<a href="http://www.odg.it/">Ordine dei giornalisti</a>. <a href="http://www.politicaonline.net/elezioni/referendum/150619974.htm">Il referendum fallì</a>, perché rimase ben lontano dal quorum (votò il 30 per cento degli aventi diritto e, di questi, il 65,5 per cento disse sì all’abolizione) e sono certo che, nella massa compatta dei giornalisti che si astennero, c’è anche qualcuno di coloro che si è scandalizzato per la campagna a favore dell’astensione nei quattro referendum sulla procreazione medicalmente assistita del 18 e 19 aprile scorsi. Ma quella polemica non mi interessa, quello che interessa adesso è sapere se l’Ordine dei giornalisti sia necessario o, quantomeno, utile. Avere una risposta unica sarebbe troppo facile. E io, infatti, non ce l’ho. Né ho una risposta molto breve, ma chi ogni tanto ha la pazienza di leggermi si è rassegnato da tempo.</p>
+<p><!--more--></p>
+<p>Dovessi sintetizzare una prima opinione, direi che l’Ordine dei giornalisti, così come è stato istituito dalla <a href="http://www.odg.it/barra/leggi/leggeordine.htm">legge numero 69 del 3 febbraio 1963</a>, potrebbe arrivare a essere considerato utile (ma mai necessario) se davvero i consigli regionali perseguissero alcuni fondamentali obiettivi indicati all’articolo 11. Secondo quell’articolo il consiglio regionale:<br/>
+“a) cura l’osservanza della legge professionale e di tutte le altre disposizioni in materia;<br/>
+b) vigila per la tutela del titolo di giornalista, in qualunque sede, anche giudiziaria, e svolge ogni attività diretta alla repressione dell’esercizio abusivo della professione;<br/>
+(…)<br/>
+f) vigila sulla condotta e sul decoro degli iscritti”.</p>
+<p><a href="http://treviso.typepad.com/se_una_notte_dinverno_un_/2005/07/deontologia_let.html">Abbiamo già visto, un paio di settimane fa</a>, che il punto a), ossia l’applicazione delle leggi deontologiche, è un po’ trascurato (inutile dire che parlo dell’applicazione delle leggi esistenti, perché il loro cambiamento appartiene a un diverso ambito). Della vigilanza sulla condotta e sul decoro è bene non parlare: non esiste, probabilmente perché definire “condotta” e “decoro” è (quasi) altrettanto difficile che definire, in un altro campo, il “comune senso del pudore”. È comunque un aspetto trascurabile, anche se sarebbe stato più opportuno che, proprio per proteggere questo principio, a suo tempo i giornalisti del Veneto non avessero eletto in consiglio un collega in costante e palese conflitto di interessi, visto che lavorava e lavora per due testate quotidianamente concorrenti. È un aspetto trascurabile anche questo perché quello più grave, insieme a quello deontologico, riguarda la “tutela del titolo di giornalista”. Vedremo poi brevemente quale senso abbia parlare di “titolo di giornalista”, ora ci interessa la tutela di quel titolo offerta dall’Ordine. Se si eccettuano casi sporadici si tratta di una protezione praticamente nulla; anzi, è stato l’Ordine stesso a reinterpretare – per non usare il verbo “stravolgere” – l’articolo 34 della legge, quello che parla dei praticanti: “La pratica giornalistica deve svolgersi presso un quotidiano, o presso il servizio giornalistico della radio o della televisione, o presso un’agenzia quotidiana di stampa a diffusione nazionale e con almeno 4 giornalisti professionisti redattori ordinari, o presso un periodico a diffusione nazionale e con almeno 6 giornalisti professionisti redattori ordinari”. Da anni quei limiti non esistono più nella realtà, da anni si assiste alla creazione di praticanti anche in presenza di un solo (e a volte nessuno) giornalista professionista. Conosco le obiezioni, conosco le interpretazioni della legge che sono state date per cercare di rendere legale la creazione di praticanti in redazioni con uno o due professionisti. Posso anche essere d’accordo e dire che quella norma è superata dall’evoluzione dei mass media negli ultimi quarant’anni, ma questo non toglie nulla al fatto che un Ordine deve prima battersi per cambiare la norma e poi applicare quella nuova, non andare sistematicamente <em>contra legem</em> per adeguarsi ai tempi. Far nascere e crescere una lobby per cambiare la legge è legittimo, disapplicare la legge – e quindi non tutelare “il titolo di giornalista” – lo è un po’ meno.</p>
+<p>Prima di andare avanti, una parentesi (che tanto parentesi non è ma che, se dovesse essere sviluppata, avrebbe bisogno di un intero saggio): è sempre meno applicato anche l’articolo 2 della legge 63 che, per quanto non stabilisca sanzioni per chi non lo osserva, indica sempre precetti a cui devono attenersi i giornalisti (inclusi capi e direttori, che talvolta hanno la tendenza a dimenticarlo) e perfino gli editori: ” È diritto insopprimibile dei giornalisti la libertà d’informazione e di critica, limitata dall’osservanza delle norme di legge dettate a tutela della personalità altrui ed è loro obbligo inderogabile il rispetto della verità sostanziale dei fatti osservati sempre i doveri imposti dalla lealtà e dalla buona fede.<br/>
+Devono essere rettificate le notizie che risultino inesatte, e riparati gli eventuali errori.<br/>
+Giornalisti e editori sono tenuti a rispettare il segreto professionale sulla fonte delle notizie, quando ciò sia richiesto dal carattere fiduciario di esse, e a promuovere lo spirito di collaborazione tra colleghi, la cooperazione fra giornalisti e editori, e la fiducia tra la stampa e i lettori”.</p>
+<p>Se molti consigli dell’Ordine fossero diligenti nell’applicazione di alcune norme, si potrebbe anche dire che sono utili. Tuttavia mai si potrebbe dire che sono necessari. Non rivangherò la falsa dimostrazione dell’inutilità dell’Ordine: «<a href="https://www.odg.mi.it/docview.asp?DID=117">In Europa</a> qualcosa di simile ce l’hanno soltanto Portogallo, Belgio e alcune regioni spagnole». È una falsa dimostrazione, perché la ragione non può sicuramente essere attribuita in modo automatico alla maggioranza. No, il fatto è che tutti i compiti attribuiti all’Ordine possono essere attribuiti ad associazioni di giornalisti (<a href="http://www.poynter.org/content/content_view.asp?id=1256">in questo elenco</a> ci sono quelle americane, poi c’è la britannica <a href="http://www.nuj.org.uk/">Nuj</a>, National union of journalists, e via via tutte le altre). Tutti eccetto quello dell’applicazione di sanzioni disciplinari, mi si potrebbe obiettare. Non è vero: a quelle associazioni potrebbe anche essere affidato il compito di stabilire e far applicare un codice etico. Vero che non si potrebbe obbligare qualcuno a iscriversi a quelle associazioni, altrettanto vero che da sempre scrivono sui giornali e parlano alla radio e alla televisione persone che giornalisti non sono – non lo sono ancora o non lo diventeranno mai – e che quindi non sono assoggettabili alle regole dell’Ordine. Già adesso l’Ordine ha pertanto una competenza limitata, visto che l’autore di un articolo è sanzionabile disciplinarmente se è iscritto all’Ordine ma è assolutamente intoccabile se, pur scrivendo legittimamente lo stesso articolo, non è iscritto all’Ordine.</p>
+<p>Qui, infatti, sta l’anomalia – insanabile – della professione giornalistica, ecco a che cosa alludevo quando parlavo del nonsenso contenuto nell’espressione “titolo di giornalista”, rispetto a “titolo di medico”, “titolo di architetto” o “titolo di avvocato”. Medico, architetto o avvocato sono coloro e soltanto coloro che hanno un titolo di studio e poi un’abilitazione professionale; lo si potrebbe stabilire anche per i giornalisti, ma non si risolverebbe niente se non si cambiasse l’<a href="http://www.senato.it/istituzione/costituzione/item98322.htm">articolo 21 della Costituzione</a>. Anche se si affermasse che, per essere iscritti a una determinata associazione di giornalisti – chiamiamolo Ordine o come diavolo vogliamo -, è necessario un particolare titolo di studio oltre all’attuale esame di abilitazione che serve per diventare giornalisti professionisti, non si arriverebbe a nulla. Siccome giornalista è chi manifesta “liberamente il proprio pensiero con la parola, lo scritto e ogni altro mezzo di diffusione” e siccome queste sono le parole usate dalla Costituzione per garantire a tutti la libertà di espressione, risulta evidente che cercare di delimitare il campo di chi può essere giornalista è come cercare di svuotare il mare con un secchiello bucato. Nelle sentenze 11 del 1968 e 71 del 1991 <a href="http://www.cortecostituzionale.it/ita/attivitacorte/pronunceemassime/pronunce/filtro.asp">la Corte costituzionale</a> ha già sancito, pur con qualche acrobazia argomentativa, la compatibilità dell’Ordine dei giornalisti con l’articolo 21 della Costituzione, ma non si è mai ovviamente sognata di sostenere il contrario, ossia che le prerogative dell’articolo 21 siano proprie soltanto dei giornalisti (e non ha mai detto, a dire il vero, nemmeno che giornalista è soltanto chi appartiene all’Ordine, ha soltanto affermato che chi appartiene all’Ordine è per definizione un giornalista, senza stabilire alcuna corrispondenza biunivoca; mentre, pensateci bene, se un avvocato non è iscritto all’Ordine è soltanto un laureato in giurisprudenza).</p>
+<p>L’Ordine è una tutela per i lettori e una garanzia verso forme di prepotenza degli editori, si dice. Fosse vero, firmerei subito il mantenimento dell’Ordine in eterno. Purtroppo non è così. E quasi sempre non per colpa degli attuali consiglieri dell’Ordine. Prendiamo atto che quella legge 63 e questo Ordine hanno poco senso, al giorno d’oggi (anche a prescindere da <a href="https://www.odg.mi.it/docview.asp?DID=1334">ciò che disse l’anno scorso Sabino Cassese</a> sull’ordinamento delle professioni): riformiamoli prima di essere riformati noi. Non significa restare senza regole e senza difese (nessuno propone l’abolizione del sindacato, tanto per non essere equivocati da quei due o tre in malafede che si trovano ovunque): <em>mutatis mutandis</em>, guardiamo anche a qualche esempio della cultura anglosassone, dove la mancanza dell’Ordine non impedisce comunque l’esistenza di giornali e giornalisti seri, che hanno prescrizioni piuttosto severe da rispettare nei confronti dei lettori, degli ascoltatori e dei telespettatori. Sperando che, nel frattempo, anche gli editori facciano la loro parte, che non è una parte da poco se anche loro prenderanno come esempi i loro migliori colleghi anglosassoni.</p>
+	</div>
+
+	<footer class="amp-wp-article-footer">
+			<div class="amp-wp-meta amp-wp-tax-category">
+		Categorie: <a href="https://dallapasqua.it/category/uncategorized/" rel="category tag">Uncategorized</a>	</div>
+
+		<div class="amp-wp-meta amp-wp-comments-link">
+		<a href="https://dallapasqua.it/2005/07/31/utilit_e_inutil/#comments">
+			Lascia un commento		</a>
+	</div>
+	</footer>
+
+</article>
+
+<footer class="amp-wp-footer">
+	<div>
+		<h2>Carlo Felice Dalla Pasqua</h2>
+		<p>
+			<a href="https://wordpress.com/?ref=footer_blog">Blog su WordPress.com.</a>
+		</p>
+		<a href="#top" class="back-to-top">Torna in cima</a>
+	</div>
+</footer>
+
+	<amp-pixel src="https://pixel.wp.com/b.gif?rand=RANDOM&#038;host=dallapasqua.it&#038;ref=DOCUMENT_REFERRER&#038;amp=1&#038;blog=16321302&#038;v=wpcom&#038;tz=1&#038;user_id=0&#038;post=795&#038;subd=carlofelice"></amp-pixel>
+	<amp-pixel src="https://pixel.wp.com/b.gif?rand=RANDOM&#038;v=wpcom-no-pv&#038;crypt=UE40eW5QN0p8M2Y%2FRE1TaVhzUzFMbjdWNHpwZGhTayxPSUFCMGRVYVNrSFguN3FwSmQ5RGtNX3VQcj1yVzhiflM1THQtLGFdQ2toOXYlflppNGZnJWRUflRnbnFsRWhudnlJUE8mdi4weCsxcGpHfHlQal8rRUM1d1JCdERkSTZzNnduPUxCYW9iQVIyeE58WnBuemhlamZLb0RLZDM5UnpUST9TS1s4VXo5ME1%2BLTZLNCt3WUR4djRIYmJMUltIcCVReThCUVVVXV9TUVdTRno0NDBZdWY0dUUwY08tU2tNVVhKOHBQRlBVXy5M"></amp-pixel>
+	
+</body>
+</html>
